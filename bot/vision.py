@@ -1,11 +1,13 @@
-# vision.py
+"""Vision pipeline from screen capture to structured game state."""
 
 import cv2
 import numpy as np
 import pytesseract
 from mss import mss
-from game_state import GameState
-from config import AUTOMAP_REGION, LOADING_BRIGHTNESS_THRESHOLD, TEMPLATE_PATH, DEBUG
+
+from bot.config import AUTOMAP_REGION, LOADING_BRIGHTNESS_THRESHOLD, TEMPLATE_PATH
+from bot.game_state import GameState
+
 
 class Vision:
     def __init__(self):
@@ -22,11 +24,14 @@ class Vision:
         return mean_brightness < LOADING_BRIGHTNESS_THRESHOLD
 
     def get_player_position(self, frame):
-        # Placeholder: player marker detection could be template-based
+        # Placeholder: player marker detection could be template-based.
         h, w, _ = frame.shape
         return (w // 2, h // 2)
 
     def find_teammates(self, frame):
+        if self.teammate_template is None:
+            return []
+
         gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         template = cv2.cvtColor(self.teammate_template, cv2.COLOR_BGR2GRAY)
         w, h = template.shape[::-1]
@@ -40,8 +45,8 @@ class Vision:
             x_center = pt[0] + w // 2
             y_center = pt[1] + h // 2
 
-            # OCR check for nameplate
-            crop = frame[pt[1]:pt[1]+h, pt[0]:pt[0]+w*3]
+            # OCR check for nameplate.
+            crop = frame[pt[1] : pt[1] + h, pt[0] : pt[0] + w * 3]
             text = pytesseract.image_to_string(crop).strip()
             if text:
                 teammates.append((x_center, y_center))
@@ -52,9 +57,9 @@ class Vision:
         teammates = self.find_teammates(frame)
 
         relative_vectors = []
-        for t in teammates:
-            dx = t[0] - player_pos[0]
-            dy = t[1] - player_pos[1]
+        for teammate in teammates:
+            dx = teammate[0] - player_pos[0]
+            dy = teammate[1] - player_pos[1]
             relative_vectors.append((dx, dy))
 
         return GameState(
@@ -63,5 +68,5 @@ class Vision:
             player_position=player_pos,
             relative_vectors=relative_vectors,
             level_number=level_number,
-            loading=self.is_loading(frame)
+            loading=self.is_loading(frame),
         )

@@ -1,0 +1,1 @@
+Drop vision test screenshots in this folder.

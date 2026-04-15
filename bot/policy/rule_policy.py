@@ -1,8 +1,9 @@
-# policy/rule_policy.py
+"""Default rule-based policy."""
 
-from game_state import GameState
-from controller import Action
-from config import TURN_SENSITIVITY
+from bot.config import TURN_SENSITIVITY
+from bot.controller import Action
+from bot.game_state import GameState
+
 
 class RulePolicy:
     def decide(self, state: GameState) -> Action:

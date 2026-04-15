@@ -1,12 +1,13 @@
-# main.py
+"""Main bot loop entry point."""
 
-from vision import Vision
-from controller import Controller
-from state_manager import StateManager
-from policy.rule_policy import RulePolicy
-from command_module import CommandModule
-from utils.timing import FPSLimiter
-from config import DEBUG
+from bot.command_module import CommandModule
+from bot.config import DEBUG
+from bot.controller import Controller
+from bot.policy.rule_policy import RulePolicy
+from bot.state_manager import StateManager
+from bot.utils.timing import FPSLimiter
+from bot.vision import Vision
+
 
 def main():
     vision = Vision()
@@ -35,9 +36,16 @@ def main():
             controller.stop_all()
 
         if DEBUG:
-            print(f"State: {current_state}, Teammates: {game_state.teammate_positions}, Player: {game_state.player_position}, Action: {action.click_target}")
+            print(
+                "State: "
+                f"{current_state}, "
+                f"Teammates: {game_state.teammate_positions}, "
+                f"Player: {game_state.player_position}, "
+                f"Action: {action.click_target}"
+            )
 
         limiter.wait()
+
 
 if __name__ == "__main__":
     main()

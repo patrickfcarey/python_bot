@@ -1,14 +1,16 @@
-# controller.py
+"""Controller abstractions for input actions."""
 
 import pyautogui
-import time
-from config import MOVE_KEY, STOP_KEY, SPELL_KEYS
+
+from bot.config import MOVE_KEY, SPELL_KEYS, STOP_KEY
+
 
 class Action:
     def __init__(self):
         self.click_target = None
         self.cast_spell = None
         self.stop = False
+
 
 class Controller:
     def move_forward(self, on=True):

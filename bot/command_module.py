@@ -1,6 +1,7 @@
-# command_module.py
+"""Simple FIFO command override queue."""
 
-from controller import Action
+from bot.controller import Action
+
 
 class CommandModule:
     def __init__(self):
