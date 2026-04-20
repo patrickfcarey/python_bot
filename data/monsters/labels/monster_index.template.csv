@@ -1,0 +1,3 @@
+monster_id,slug,display_name,target_hover_images,target_body_images,covered
+m_fallen_shaman,fallen_shaman,Fallen Shaman,25,40,false
+m_venom_lord,venom_lord,Venom Lord,25,40,false

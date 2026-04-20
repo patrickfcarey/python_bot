@@ -3,4 +3,7 @@ numpy
 pytesseract
 mss
 pyautogui
+pygetwindow
+pywin32
+pillow
 pytest

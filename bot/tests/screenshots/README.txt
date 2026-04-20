@@ -1,1 +1,1 @@
-Drop vision test screenshots in this folder.
+Place captured automap screenshots here for offline vision calibration and tests.

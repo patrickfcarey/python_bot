@@ -1,0 +1,390 @@
+display_name,sample_monstats_id,mon_type,threat,superunique_refs,row_count
+a Trap,trap-firebolt,,,,7
+a Turret,turret1,construct,9,,3
+Abyss Knight,doomknight2,doomknight,10,,1
+Afflicted,bighead1,bighead,10,,2
+Agony Worm,painworm3,vilekind,10,,1
+Akara,akara,human,,,1
+Alkor,alkor,human,,,1
+an evil force,act2child,human,,,36
+Andariel,andariel,demon,14,,1
+Anguish Worm,painworm5,vilekind,10,,1
+Anya,drehya,human,,,2
+Apparition,wraith4,wraith,10,,1
+Arach,arach1,arach,10,,3
+Asheara,asheara,human,,,1
+Assailant,sandraider10,sandraider,10,,2
+Atma,atma,human,,,1
+Baal,baalclone,demon,14,,6
+Balrog,megademon1,megademon,10,,2
+Barbarian,act5hire1,human,11,,2
+Barbarian Captive,act5pow,human,1,,1
+Barbed Giant,quillbear5,quillrat,,,1
+Barricade,barricadewall1,,2,,2
+Barricaded Door,barricadedoor1,,6,,2
+Barricaded Tower,barricadetower,construct,6,,1
+Bear,bear,,14,,1
+Berserker Slayer,suicideminion2,minion,11,,2
+Black Archer,cr_archer4,corruptrogue,10,,1
+Black Lancer,cr_lancer4,corruptrogue,10,,3
+Black Locusts,swarm2,swarm,10,,1
+Black Raptor,foulcrow3,foulcrow,10,,2
+Black Raptor Nest,crownest3,,10,,1
+Black Rogue,corruptrogue4,corruptrogue,10,,1
+Black Soul,willowisp4,willowisp,10,,2
+Blade Sentinel,bladecreeper,construct,,,1
+Blood Boss,overseer4,overseer,10,,1
+Blood Bringer,siegebeast3,siegebeast,10,Threash Socket,1
+Blood Clan,goatman3,goatman,10,,2
+Blood Diver,batdemon4,batdemon,10,,1
+Blood Golem,bloodgolem,golem,11,,1
+Blood Hook,mosquito3,mosquito,10,,1
+Blood Maggot,sandmaggot5,sandmaggot,10,,3
+Blood Maggot Egg,maggotegg5,,8,,2
+Blood Maggot Queen,maggotqueen5,sandmaggot,10,,1
+Blood Maggot Young,maggotbaby5,sandmaggot,9,,2
+Blood Raven,bloodraven,corruptrogue,13,,1
+Blood Temptress,succubus5,succubus,10,,1
+Blood Wing,mosquito4,mosquito,10,,1
+Blood Witch,succubuswitch4,succubus,10,,1
+Bog Creature,frogdemon2,frogdemon,10,,1
+Bone Archer,sk_archer3,skeleton,10,,2
+Bone Mage,skmage_cold2,skeleton,10,,6
+Bone Prison,boneprison1,construct,1,,4
+Bone Scarab,scarab5,scarab,10,,1
+Bone Warrior,skeleton3,skeleton,10,,2
+Bramble Hulk,thornhulk2,thornhulk,10,,1
+Brute,brute2,brute,10,Treehead WoodFist,1
+Bunny,bunny,,,,1
+Burning Dead,skeleton4,skeleton,10,,1
+Burning Dead Archer,sk_archer4,skeleton,10,,3
+Burning Dead Mage,skmage_fire3,skeleton,10,,5
+Burning Soul,willowisp3,willowisp,10,The Tormentor,3
+Bush Barb,quillrat5,quillrat,10,,1
+Cadaver,mummy5,mummy,10,,2
+Cantor,cantor2,zakarum,10,,1
+Carrion Bird,vulture1,vulture,10,,2
+Carver,fallen2,fallen,10,Rakanishu,2
+Carver Shaman,fallenshaman2,fallen,12,,2
+Cave Leaper,sandleaper2,sandleaper,10,,2
+Charged Bolt Sentry,chargeboltsentry,construct,,,1
+Charsi,charsi,human,,,1
+Chilled Froth,snowyeti3,snowyeti,10,,1
+Clay Golem,claygolem,golem,11,,1
+Cliff Lurker,sandleaper5,sandleaper,10,,1
+Cloud Stalker,foulcrow4,foulcrow,10,,2
+Cloud Stalker Nest,crownest4,,10,,1
+Combatant,act5barb1,human,11,,2
+Compelling Orb,compellingorb,construct,,,1
+Consumed Fire Boar,suicideminion4,minion,11,,1
+Consumed Ice Boar,suicideminion3,minion,11,,1
+Corpse Spitter,regurgitator2,regurgitator,10,Riftwraith the Cannibal,1
+Corpulent,regurgitator1,regurgitator,10,,1
+Crush Beast,siegebeast2,siegebeast,10,,1
+Crusher,brute4,brute,10,,1
+Cycle of Life,cycleoflife,,,,1
+Damned,bighead10,bighead,10,,2
+Dark Archer,cr_archer3,corruptrogue,10,,3
+Dark Familiar,batdemon5,batdemon,10,,1
+Dark Hunter,corruptrogue1,corruptrogue,10,,1
+Dark Lancer,cr_lancer3,corruptrogue,10,,2
+Dark Lord,vampire3,vampire,11,,3
+Dark One,fallen4,fallen,10,,2
+Dark Ranger,cr_archer1,corruptrogue,10,Coldcrow,1
+Dark Shaman,fallenshaman4,fallen,12,,2
+Dark Shape,wraith5,wraith,10,,1
+Dark Spearwoman,cr_lancer1,corruptrogue,10,,1
+Dark Stalker,corruptrogue3,corruptrogue,10,The Countess,1
+Dark Wanderer,darkwanderer,,,,1
+Death Beetle,scarab2,scarab,10,Beetleburst,1
+Death Berserker,deathmauler4,deathmauler,10,,1
+Death Brawler,deathmauler2,deathmauler,10,,1
+Death Brigadier,deathmauler5,deathmauler,10,Blaze Ripper,1
+Death Clan,goatman10,goatman,10,,2
+Death Lord,bloodlord5,bloodlord,10,,1
+Death Mage,skmage_cold3,skeleton,10,,1
+Death Sentry,deathsentry,construct,,,1
+Death Slasher,deathmauler3,deathmauler,10,,1
+Decayed,mummy2,mummy,10,Leatherarm,1
+Deckard Cain,cain1,human,,,6
+Decoy,dopplezon,,14,,1
+Defender Spirit,colbarbwhirl,human,10,,1
+Defiled Warrior,reanimatedhorde5,zombie,10,Pindleskin,1
+Defiler,warputriddefiler,demon,10,,1
+Demon Gremlin,imp3,imp,10,Dac Farren,1
+Demon Portal,minionspawner1,,11,,8
+Demon Rascal,imp2,imp,10,,1
+Demon Sprite,imp5,imp,10,Magma Torquer,1
+Demon Steed,siegebeast5,siegebeast,10,,1
+Demon Trickster,imp4,imp,10,,3
+Desert Mercenary,act2hire,human,11,,1
+Desert Wing,batdemon1,batdemon,10,,1
+Devilkin,fallen3,fallen,10,,2
+Devilkin Shaman,fallenshaman3,fallen,12,,2
+Devourer,sandmaggot3,sandmaggot,10,,1
+Devourer Egg,maggotegg3,,8,,1
+Devourer Queen,maggotqueen3,sandmaggot,10,,1
+Devourer Young,maggotbaby3,sandmaggot,9,,1
+Diablo,diablo,demon,14,,3
+Dire Wolf,fenris,,10,,1
+Disfigured,bighead4,bighead,10,,2
+Doom Ape,baboon4,baboon,10,,1
+Doom Caster,fingermage1,fingermage,10,,1
+Doom Knight,dkfig1,doomknight,10,,3
+Dried Corpse,mummy1,mummy,10,,1
+Drognan,drognan,human,,,1
+Drowned Carcass,zombie4,zombie,10,,1
+Dune Beast,baboon1,baboon,10,,1
+Dung Soldier,scarab1,scarab,10,,1
+Duriel,duriel,demon,,,2
+Eagle,eagle,,,,1
+Elzix,elzix,human,,,1
+Embalmed,mummy3,mummy,10,,1
+Enslaved,minion1,minion,10,Megaflow Rectifier,1
+Evil Demon Hut,demonspawner,,11,,2
+Faithful,zealot2,zakarum,10,,1
+Fanatic Enslaved,suicideminion1,minion,11,,1
+Fara,fara,human,,,1
+Feeder,mosquito2,mosquito,10,,1
+Festering Appendages,baaltentacle1,demon,10,,5
+Fetid Defiler,putriddefiler3,putriddefiler,10,,1
+Fiend,batdemon2,batdemon,10,,2
+Fire Boar,minion4,minion,10,,1
+Fire Golem,firegolem,golem,11,,1
+Flame Spider,arach4,arach,10,Web Mage the Burning,1
+Flavie,navi,human,,,1
+Flayer,fetish3,fetish,10,,4
+Flayer Shaman,fetishshaman3,fetish,12,,2
+Flesh Archer,cr_archer5,corruptrogue,10,,1
+Flesh Beast,vilechild1,vilekind,9,,2
+Flesh Hunter,corruptrogue5,corruptrogue,10,Sarina the Battlemaid,2
+Flesh Lancer,cr_lancer5,corruptrogue,10,,1
+Flesh Spawner,vilemother1,vilekind,10,,2
+Foul Crow,foulcrow1,foulcrow,10,,2
+Foul Crow Nest,crownest1,,10,,1
+Frenzied Hell Spawn,suicideminion10,minion,11,,2
+Frenzied Ice Spawn,suicideminion6,minion,11,,1
+Frozen Abyss,snowyeti4,snowyeti,10,Frozenstein,1
+Frozen Creeper,frozenhorror1,frozenhorror,10,Snapchip Shatter,1
+Frozen Scorch,frozenhorror5,frozenhorror,10,,1
+Frozen Scourge,frozenhorror3,frozenhorror,10,,1
+Frozen Terror,frozenhorror2,frozenhorror,10,,1
+Gargantuan Beast,brute1,brute,10,,1
+Geglash,geglash,human,,,1
+Gheed,gheed,human,,,1
+Ghost,wraith1,wraith,10,,2
+Ghoul,zombie3,zombie,10,,1
+Ghoul Lord,vampire1,vampire,11,,2
+Giant Lamprey,sandmaggot4,sandmaggot,10,,1
+Giant Lamprey Egg,maggotegg4,,8,,1
+Giant Lamprey Queen,maggotqueen4,sandmaggot,10,,1
+Giant Lamprey Young,maggotbaby4,sandmaggot,9,,1
+Gloam,willowisp1,willowisp,10,,2
+Gloombat,batdemon3,batdemon,10,Icehawk Riftwing,2
+Gore Bearer,siegebeast4,siegebeast,10,,1
+Gorebelly,blunderbore2,blunderbore,10,,1
+gorgon1,gorgon1,,,,1
+gorgon2,gorgon2,,,,1
+gorgon3,gorgon3,,,,1
+gorgon4,gorgon4,,,,1
+Greater Hell Spawn,minion11,minion,10,,2
+Greater Ice Spawn,minion8,minion,10,,1
+Greiz,greiz,human,,,1
+Griswold,griswold,undead,11,Griswold,1
+Grizzly,druidbear,,11,,1
+Grotesque,vilemother3,vilekind,10,,2
+Grotesque Wyrm,vilechild3,vilekind,9,,2
+Guard,act5barb3,human,11,,2
+Guardian,unraveler2,unraveler,12,,2
+Guardian Spirit,colbarbthrow,human,10,,1
+Hadriel,malachai,human,,,1
+Halbu,halbu,human,,,1
+Heart of Wolverine,heartofwolverine,,8,,1
+Hell Bovine,cowking,bovine,10,The Cow King,2
+Hell Buzzard,vulture3,vulture,10,,1
+Hell Cat,pantherwoman4,pantherwoman,10,,1
+Hell Clan,goatman4,goatman,10,,2
+Hell Lord,bloodlord4,bloodlord,10,,2
+Hell Slinger,slinger4,pantherwoman,10,,1
+Hell Spawn,minion10,minion,10,,2
+Hell Swarm,swarm4,swarm,10,,2
+Hell Temptress,succubus4,succubus,10,Anodized Elite,3
+Hell Whip,overseer5,overseer,10,,2
+Hell Witch,succubuswitch5,succubus,10,,2
+Hephasto The Armorer,hephasto,demon,12,The Feature Creep,1
+Hierophant,cantor3,zakarum,10,,4
+Hollow One,unraveler1,unraveler,12,,1
+Horadrim Ancient,unraveler4,unraveler,12,,3
+Horror,skeleton5,skeleton,10,,1
+Horror Archer,sk_archer10,skeleton,10,,3
+Horror Mage,skmage_cold4,skeleton,10,,9
+Hratli,hratli,human,,,1
+Hungry Dead,zombie2,zombie,10,,1
+Huntress,pantherwoman1,pantherwoman,10,Bloodwitch the Wild,2
+Hydra,hydra1,,,,3
+Ice Boar,minion3,minion,10,,1
+Ice Spawn,minion6,minion,10,,1
+Inferno Sentry,infernosentry,construct,,,1
+Infidel,sandraider4,sandraider,10,,2
+Injured Barbarian 1,injuredbarb1,human,,,1
+Injured Barbarian 2,injuredbarb2,human,,,1
+Injured Barbarian 3,injuredbarb3,human,,,1
+Insane Hell Spawn,suicideminion11,minion,11,,2
+Insane Ice Spawn,suicideminion8,minion,11,,1
+Invader,sandraider3,sandraider,10,Fire Eye,2
+Iron Golem,irongolem,golem,11,,1
+Iron Wolf,act3hire,human,11,,1
+Itchies,swarm1,swarm,10,,1
+Izual,izual,demon,14,,3
+Jamella,jamella,human,,,1
+Jerhyn,jerhyn,human,,,1
+Jungle Hunter,baboon3,baboon,10,,1
+Kaelan,act2guard2,human,11,,1
+Kashya,kashya,human,,,1
+Korlic,ancientbarb3,human,10,Ancient Barbarian 3,2
+Korlic the Protector,ancientstatue3,,,,1
+Larva,larva,,,,1
+Larzuk,larzuk,human,,,1
+Lasher,overseer2,overseer,10,,1
+Lightning Sentry,lightningsentry,construct,,,1
+Lilith,uberandariel,demon,14,,1
+Lysander,lysander,human,,,1
+Madawc,ancientbarb2,human,10,Ancient Barbarian 2,2
+Madawc the Guardian,ancientstatue2,,,,1
+Maggot,maggot,,,,1
+Malah,malah,human,,,1
+Marauder,sandraider2,sandraider,10,,2
+Mauler,blunderbore3,blunderbore,10,,2
+Maw Fiend,regurgitator3,regurgitator,10,,2
+Menace Worm,painworm4,vilekind,10,,1
+Mephisto,mephisto,demon,14,,2
+Meshif,meshif1,human,,,2
+Misshapen,bighead3,bighead,10,,2
+Moon Clan,goatman1,goatman,10,,2
+Moon Lord,bloodlord1,bloodlord,10,,2
+Natalya,natalya,human,,,1
+Night Clan,goatman2,goatman,10,,2
+Night Lord,bloodlord2,bloodlord,10,,2
+Night Marauder,baboon6,baboon,10,,1
+Night Slinger,slinger3,pantherwoman,10,,2
+Night Tiger,pantherwoman3,pantherwoman,10,,1
+Nihlathak,nihlathak,human,,,2
+Oak Sage,oaksage,,8,,1
+Ormus,ormus,human,,,1
+Overlord,overseer3,overseer,10,Sharp Tooth Sayer,1
+Pet,invisopet,,,,1
+Pit Lord,megademon2,megademon,10,,3
+Pit Viper,clawviper4,clawviper,10,,2
+Plague Bearer,darkelder,zombie,10,Dark Elder,2
+Plague Bugs,swarm3,swarm,10,,1
+Plague Poppy,plaguepoppy,,,,1
+Poison Spinner,arach3,arach,10,,1
+Preserved Dead,mummy4,mummy,10,,1
+Prison Door,prisondoor,,6,,1
+Protector Spirit,colbarbfrenzy,human,10,,1
+Prowling Dead,reanimatedhorde3,zombie,10,,1
+Qual-Kehk,qual-kehk,human,,,1
+Quill Bear,quillbear1,quillrat,,,1
+Quill Rat,quillrat1,quillrat,10,,2
+Radament,radament,demon,14,Radament,1
+Rancid Defiler,putriddefiler4,putriddefiler,10,,1
+Rank Defiler,putriddefiler5,putriddefiler,10,,1
+Rat Man,fetish1,fetish,10,,3
+RatMan Shaman,fetishshaman1,fetish,12,,1
+Raven,druidhawk,,,,1
+Razor Beast,quillbear4,quillrat,,,1
+Razor Spine,quillrat4,quillrat,10,Flamespike the Crawler,2
+Returned,skeleton2,skeleton,10,,3
+Returned Archer,sk_archer2,skeleton,10,,2
+Returned Mage,skmage_cold1,skeleton,10,,6
+River Stalker,tentacle2,tentacle,8,,2
+Rock Dweller,baboon2,baboon,10,,1
+Rock Worm,sandmaggot2,sandmaggot,10,,1
+Rock Worm Egg,maggotegg2,,8,,1
+Rock Worm Queen,maggotqueen2,sandmaggot,10,,1
+Rock Worm Young,maggotbaby2,sandmaggot,9,,1
+Rogue,roguehire,human,10,,1
+Rogue Scout,rogue2,human,10,,1
+Rot Walker,reanimatedhorde1,zombie,10,,1
+Saber Cat,pantherwoman2,pantherwoman,10,,2
+Salamander,clawviper3,clawviper,10,Fangskin,2
+Sand Fisher,arach2,arach,10,,1
+Sand Leaper,sandleaper1,sandleaper,10,,1
+Sand Maggot Queen,maggotqueen1,sandmaggot,10,Coldworm the Burrower,1
+Scarab,scarab3,scarab,10,,2
+Serpent Magus,clawviper10,clawviper,10,,2
+Sexton,cantor1,zakarum,10,,1
+Shadow Master,shadowmaster,,11,,1
+Shadow Warrior,shadowwarrior,,11,,1
+Siren,succubuswitch1,succubus,10,,2
+Skeletal Mage,necromage,skeleton,10,,1
+Slayer,minion2,minion,10,,2
+Slime Prince,frogdemon3,frogdemon,10,,1
+Snow Drifter,snowyeti1,snowyeti,10,,1
+Soul Killer,fetish4,fetish,10,,4
+Soul Killer Shaman,fetishshaman4,fetish,12,Witch Doctor Endugu,2
+Spear Cat,slinger2,pantherwoman,10,,2
+Specter,wraith3,wraith,10,,3
+Spider Magus,arach5,arach,10,,1
+Spike Giant,quillbear2,quillrat,,,1
+Spikefist,thornhulk4,thornhulk,10,,1
+Spirit of Barbs,spiritofbarbs,,8,,1
+Spirit Wolf,spiritwolf,,10,,1
+Stained Glass Window,window1,,1,,2
+Steel Scarab,scarab4,scarab,10,,3
+Storm Caster,fingermage3,fingermage,10,Grand Vizier of Chaos,2
+Strangler,fingermage2,fingermage,10,,2
+Stygian Dog,vilechild2,vilekind,9,,1
+Stygian Doll,fetish5,fetish,10,,4
+Stygian Doll Shaman,fetishshaman5,fetish,12,,2
+Stygian Hag,vilemother2,vilekind,10,Taintbreeder,1
+Stygian Harlot,succubus3,succubus,10,,1
+Stygian Watcher,tentacle3,tentacle,8,,2
+Sucker,mosquito1,mosquito,10,,1
+Swamp Dweller,frogdemon1,frogdemon,10,,1
+Swamp Ghost,willowisp2,willowisp,10,,1
+Talic,ancientbarb1,human,10,Ancient Barbarian 1,2
+Talic the Defender,ancientstatue1,,,,1
+Temple Guard,baboon5,baboon,10,,3
+The Banished,vampire5,vampire,11,,1
+The Smith,smith,demon,11,The Smith,1
+The Summoner,summoner,human,14,The Summoner,1
+Thorn Beast,quillrat3,quillrat,10,,1
+Thorn Brute,quillbear3,quillrat,,,1
+Thrasher,thornhulk3,thornhulk,10,Stormtree,1
+Tomb Creeper,sandleaper3,sandleaper,10,,2
+Tomb Viper,clawviper1,clawviper,10,,2
+Torment Worm,painworm2,vilekind,10,,1
+Trapped Soul,trappedsoul1,,4,,2
+Tree Lurker,sandleaper4,sandleaper,10,,1
+Tyrael,tyrael1,,,,3
+Undead Fetish,bonefetish2,undeadfetish,10,,1
+Undead Flayer,bonefetish3,undeadfetish,10,,1
+Undead Rat Man,bonefetish1,undeadfetish,10,,1
+Undead Scavenger,vulture2,vulture,10,,1
+Undead Soul Killer,bonefetish4,undeadfetish,10,,2
+Undead Stygian Doll,bonefetish5,undeadfetish,10,,2
+Unholy Corpse,reanimatedhorde4,zombie,10,,2
+Unraveler,unraveler3,unraveler,12,Ancient Kaa the Soulless,3
+Urdar,blunderbore4,blunderbore,10,,1
+Valkyrie,valkyrie,,11,,1
+Venom Lord,megademon3,megademon,10,Infector of Souls|Winged Death,2
+Vile Archer,cr_archer2,corruptrogue,10,,2
+Vile Hunter,corruptrogue2,corruptrogue,10,,1
+Vile Lancer,cr_lancer2,corruptrogue,10,,2
+Vile Temptress,succubus2,succubus,10,,1
+Vile Witch,succubuswitch2,succubus,10,Vinvear Molech,3
+Vine Creature,vinecreature,,,,1
+Wailing Beast,brute5,brute,10,,1
+Wake of Fire,wakeofdestruction,construct,,,1
+Warped One,fallen5,fallen,10,,1
+Warped Shaman,fallenshaman5,fallen,12,Baal Subject 1,1
+Warriv,warriv1,human,,,2
+Water Watcher,tentacle1,tentacle,8,,2
+Winged Nightmare,vulture4,vulture,10,,1
+Wolf,wolf,,14,,1
+Worldstone Effect,worldstoneeffect,,,,1
+Wretched Defiler,putriddefiler2,putriddefiler,10,,1
+Yeti,brute3,brute,10,,1
+Zakarumite,zealot1,zakarum,10,,1
+Zealot,zealot3,zakarum,10,,3

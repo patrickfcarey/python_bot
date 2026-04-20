@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Monster Catalog Entry",
+  "type": "object",
+  "required": ["monster_id", "slug", "display_name", "family", "acts", "areas", "is_boss", "is_minion", "source_refs"],
+  "properties": {
+    "monster_id": {"type": "string"},
+    "slug": {"type": "string"},
+    "display_name": {"type": "string"},
+    "family": {"type": "string"},
+    "acts": {"type": "array", "items": {"type": "integer", "minimum": 1, "maximum": 5}},
+    "areas": {"type": "array", "items": {"type": "string"}},
+    "is_boss": {"type": "boolean"},
+    "is_minion": {"type": "boolean"},
+    "source_refs": {"type": "array", "items": {"type": "string"}},
+    "notes": {"type": "string"}
+  },
+  "additionalProperties": false
+}

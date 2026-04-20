@@ -1,2 +1,7 @@
-Placeholder for teammate marker template.
-Replace with a real green_x reference image before running vision matching.
+Place teammate marker templates here.
+
+Expected default path:
+- bot/templates/green_x.png
+
+Use a tight crop of the teammate green X marker from automap.
+PNG with transparent or opaque background both work.

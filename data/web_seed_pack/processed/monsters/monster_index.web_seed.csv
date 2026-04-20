@@ -1,0 +1,124 @@
+monster_id,slug,display_name,target_hover_images,target_body_images,covered
+web_wraith,wraith,Wraith,25,40,False
+web_blood_hawk,blood_hawk,Blood Hawk,25,40,False
+web_blood_hawk_nest,blood_hawk_nest,Blood Hawk Nest,25,40,False
+web_corrupt_rogue_archer,corrupt_rogue_archer,Corrupt Rogue Archer,25,40,False
+web_corrupt_rogue_spearwoman,corrupt_rogue_spearwoman,Corrupt Rogue Spearwoman,25,40,False
+web_corrupt_rogue,corrupt_rogue,Corrupt Rogue,25,40,False
+web_fallen,fallen,Fallen,25,40,False
+web_fallen_shaman,fallen_shaman,Fallen Shaman,25,40,False
+web_fetish,fetish,Fetish,25,40,False
+web_flying_scimitar,flying_scimitar,Flying Scimitar,25,40,False
+web_gargoyle_trap,gargoyle_trap,Gargoyle Trap,25,40,False
+web_giant_spider,giant_spider,Giant Spider,25,40,False
+web_goatman,goatman,Goatman,25,40,False
+web_skeleton_archer,skeleton_archer,Skeleton Archer,25,40,False
+web_skeleton_mage,skeleton_mage,Skeleton Mage,25,40,False
+web_skeleton,skeleton,Skeleton,25,40,False
+web_spike_fiend,spike_fiend,Spike Fiend,25,40,False
+web_tainted,tainted,Tainted,25,40,False
+web_vampire,vampire,Vampire,25,40,False
+web_wendigo,wendigo,Wendigo,25,40,False
+web_zombie,zombie,Zombie,25,40,False
+web_baboon_demon,baboon_demon,Baboon Demon,25,40,False
+web_bat_demon,bat_demon,Bat Demon,25,40,False
+web_blunderbore,blunderbore,Blunderbore,25,40,False
+web_claw_viper,claw_viper,Claw Viper,25,40,False
+web_fire_tower,fire_tower,Fire Tower,25,40,False
+web_greater_mummy,greater_mummy,Greater Mummy,25,40,False
+web_leaper,leaper,Leaper,25,40,False
+web_lightning_spire,lightning_spire,Lightning Spire,25,40,False
+web_mummy,mummy,Mummy,25,40,False
+web_mummy_sarcophagus,mummy_sarcophagus,Mummy Sarcophagus,25,40,False
+web_sabre_cat,sabre_cat,Sabre Cat,25,40,False
+web_sand_maggot,sand_maggot,Sand Maggot,25,40,False
+web_sand_maggot_egg,sand_maggot_egg,Sand Maggot Egg,25,40,False
+web_sand_maggot_young,sand_maggot_young,Sand Maggot Young,25,40,False
+web_sand_raider,sand_raider,Sand Raider,25,40,False
+web_scarab_demon,scarab_demon,Scarab Demon,25,40,False
+web_slinger,slinger,Slinger,25,40,False
+web_swarm,swarm,Swarm,25,40,False
+web_vulture_demon,vulture_demon,Vulture Demon,25,40,False
+web_bone_fetish,bone_fetish,Bone Fetish,25,40,False
+web_council_member,council_member,Council Member,25,40,False
+web_fetish_shaman,fetish_shaman,Fetish Shaman,25,40,False
+web_frog_demon,frog_demon,Frog Demon,25,40,False
+web_giant_mosquito,giant_mosquito,Giant Mosquito,25,40,False
+web_tentacle_beast,tentacle_beast,Tentacle Beast,25,40,False
+web_thorned_hulk,thorned_hulk,Thorned Hulk,25,40,False
+web_willowisp,willowisp,Willowisp,25,40,False
+web_zakarum_priest,zakarum_priest,Zakarum Priest,25,40,False
+web_zakarum_zealot,zakarum_zealot,Zakarum Zealot,25,40,False
+web_finger_mage,finger_mage,Finger Mage,25,40,False
+web_megademon,megademon,Megademon,25,40,False
+web_regurgitator,regurgitator,Regurgitator,25,40,False
+web_oblivion_knight,oblivion_knight,Oblivion Knight,25,40,False
+web_vile_child,vile_child,Vile Child,25,40,False
+web_vile_mother,vile_mother,Vile Mother,25,40,False
+web_abominable,abominable,Abominable,25,40,False
+web_minion_of_destruction,minion_of_destruction,Minion of Destruction,25,40,False
+web_blood_lord,blood_lord,Blood Lord,25,40,False
+web_catapult,catapult,Catapult,25,40,False
+web_death_mauler,death_mauler,Death Mauler,25,40,False
+web_demon_imp,demon_imp,Demon Imp,25,40,False
+web_frozen_horror,frozen_horror,Frozen Horror,25,40,False
+web_baal_s_minion,baal_s_minion,Baal's Minion,25,40,False
+web_overseer,overseer,Overseer,25,40,False
+web_pain_worm,pain_worm,Pain Worm,25,40,False
+web_putrid_defiler,putrid_defiler,Putrid Defiler,25,40,False
+web_reanimated_horde,reanimated_horde,Reanimated Horde,25,40,False
+web_reziarfg,reziarfg,Reziarfg,25,40,False
+web_siege_beast,siege_beast,Siege Beast,25,40,False
+web_stygian_fury,stygian_fury,Stygian Fury,25,40,False
+web_succubus,succubus,Succubus,25,40,False
+web_suicide_minion,suicide_minion,Suicide Minion,25,40,False
+web_baboon_demon,baboon_demon,Baboon Demon,25,40,False
+web_bat_demon,bat_demon,Bat Demon,25,40,False
+web_blood_hawk,blood_hawk,Blood Hawk,25,40,False
+web_blood_lord,blood_lord,Blood Lord,25,40,False
+web_blunderbore,blunderbore,Blunderbore,25,40,False
+web_bone_fetish,bone_fetish,Bone Fetish,25,40,False
+web_claw_viper,claw_viper,Claw Viper,25,40,False
+web_corrupt_rogue_archer,corrupt_rogue_archer,Corrupt Rogue Archer,25,40,False
+web_corrupt_rogue_spearwoman,corrupt_rogue_spearwoman,Corrupt Rogue Spearwoman,25,40,False
+web_council_member,council_member,Council Member,25,40,False
+web_death_mauler,death_mauler,Death Mauler,25,40,False
+web_demon_imp,demon_imp,Demon Imp,25,40,False
+web_fallen,fallen,Fallen,25,40,False
+web_fallen_shaman,fallen_shaman,Fallen Shaman,25,40,False
+web_fetish,fetish,Fetish,25,40,False
+web_fetish_shaman,fetish_shaman,Fetish Shaman,25,40,False
+web_finger_mage,finger_mage,Finger Mage,25,40,False
+web_giant_spider,giant_spider,Giant Spider,25,40,False
+web_goatman,goatman,Goatman,25,40,False
+web_greater_mummy,greater_mummy,Greater Mummy,25,40,False
+web_leaper,leaper,Leaper,25,40,False
+web_megademon,megademon,Megademon,25,40,False
+web_baal_s_minion,baal_s_minion,Baal's Minion,25,40,False
+web_mummy,mummy,Mummy,25,40,False
+web_reanimated_horde,reanimated_horde,Reanimated Horde,25,40,False
+web_regurgitator,regurgitator,Regurgitator,25,40,False
+web_sabre_cat,sabre_cat,Sabre Cat,25,40,False
+web_sand_maggot,sand_maggot,Sand Maggot,25,40,False
+web_sand_maggot_egg,sand_maggot_egg,Sand Maggot Egg,25,40,False
+web_sand_maggot_young,sand_maggot_young,Sand Maggot Young,25,40,False
+web_sand_raider,sand_raider,Sand Raider,25,40,False
+web_scarab_demon,scarab_demon,Scarab Demon,25,40,False
+web_skeleton_archer,skeleton_archer,Skeleton Archer,25,40,False
+web_skeleton_mage,skeleton_mage,Skeleton Mage,25,40,False
+web_skeleton,skeleton,Skeleton,25,40,False
+web_slinger,slinger,Slinger,25,40,False
+web_spike_fiend,spike_fiend,Spike Fiend,25,40,False
+web_stygian_fury,stygian_fury,Stygian Fury,25,40,False
+web_succubus,succubus,Succubus,25,40,False
+web_tainted,tainted,Tainted,25,40,False
+web_thorned_hulk,thorned_hulk,Thorned Hulk,25,40,False
+web_undead_horror,undead_horror,Undead Horror,25,40,False
+web_vampire,vampire,Vampire,25,40,False
+web_vile_child,vile_child,Vile Child,25,40,False
+web_vile_mother,vile_mother,Vile Mother,25,40,False
+web_vulture_demon,vulture_demon,Vulture Demon,25,40,False
+web_willowisp,willowisp,Willowisp,25,40,False
+web_wraith,wraith,Wraith,25,40,False
+web_zakarum_priest,zakarum_priest,Zakarum Priest,25,40,False
+web_zakarum_zealot,zakarum_zealot,Zakarum Zealot,25,40,False

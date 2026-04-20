@@ -1,0 +1,16 @@
+{
+  "generated_at_utc": "2026-04-16T02:50:27+00:00",
+  "root": "C:/github/python_bot/data/web_seed_pack",
+  "stats": {
+    "arreat_monster_refs": 123,
+    "arreat_detail_pages": 123,
+    "arreat_total_image_refs": 124,
+    "arreat_images_downloaded": 75,
+    "d2data_json_files": 7,
+    "item_catalog_rows": 692,
+    "unique_item_names": 689,
+    "pickit_rules": 9,
+    "d2data_monstats_rows": 751,
+    "d2data_superuniques_rows": 66
+  }
+}

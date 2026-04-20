@@ -1,0 +1,43 @@
+family_group,broad_archetype,monster_count,combat_relevant_count,avg_danger_priority_combat,max_danger_priority_combat,raw_families,examples
+human,humanoid,76,25,1.64,3,human,The Summoner|an evil force|Talic|Madawc|Korlic|Iron Wolf|Guard|Desert Mercenary
+demon_legion,demon,75,75,4.48,5,bloodlord|demon|doomknight|megademon|minion,The Smith|Radament|Oblivion Knight|Moon Lord|Minion of Destruction|Mephisto|Lilith|Hephasto The Armorer
+environment_object,object,60,0,0.0,0,__blank__,an evil force|a Trap|Worldstone Effect|Trapped Soul|Talic the Defender|Sucker Nest|Stained Glass Window|Sand Maggot Egg
+skeleton_undead,undead,48,48,2.67,5,skeleton,Death Mage|Burning Dead Mage|Skeleton|Skeletal Mage|Returned Mage|Horror Mage|Bone Mage|Skeleton Archer
+fallen_clan,demon,44,41,2.51,4,__blank__|bighead|fallen|vilekind,Warped Shaman|Fallen Shaman|Devilkin Shaman|Dark Shaman|Carver Shaman|Tainted|Stygian Hag|Flesh Spawner
+construct_siege,construct,27,27,2.85,4,construct|siegebeast,Blood Bringer|a Turret|a Trap|Wake of Fire|Siege Beast|Mummy Sarcophagus|Lightning Spire|Lightning Sentry
+brute_beast,beast,26,26,3.19,4,blunderbore|brute|deathmauler|frozenhorror|snowyeti,Frozen Creeper|Frozen Abyss|Death Mauler|Death Brigadier|Brute|Yeti|Wailing Beast|Urdar
+fetish_tribe,demon,25,25,4.32,6,fetish,Stygian Doll|Soul Killer|Soul Killer Shaman|Stygian Doll Shaman|RatMan Shaman|Flayer Shaman|Fetish Shaman|Rat Man
+corrupt_rogue,humanoid,24,24,3.21,5,corruptrogue,Blood Raven|Flesh Hunter|Dark Stalker|Dark Ranger|Vile Lancer|Vile Hunter|Vile Archer|Flesh Lancer
+summon_or_pet,summon,24,0,0.0,0,__blank__,poisonorb|lightningbeast|iceglobe|firebeast|Wolf|Vine Creature|Valkyrie|Spirit of Barbs
+goatman_clan,humanoid,20,20,3.15,4,goatman|sandraider,Invader|Blood Clan|Sand Raider|Night Clan|Moon Clan|Marauder|Infidel|Hell Clan
+demon_variant_untyped,demon,18,4,4.0,4,__blank__,gorgon4|gorgon3|gorgon2|gorgon1|darkguard5|darkguard4|darkguard3|darkguard2
+maggot_insectoid,insectoid,18,18,3.39,4,sandmaggot,Sand Maggot Queen|Blood Maggot Young|Blood Maggot Queen|Blood Maggot|Sand Maggot Young|Sand Maggot|Rock Worm Young|Rock Worm Queen
+succubus_coven,demon,17,17,4.0,4,succubus,Vile Witch|Vile Temptress|Succubus|Stygian Harlot|Stygian Fury|Siren|Hell Witch|Hell Temptress
+imp_pack,demon,16,15,3.33,4,__blank__|batdemon|imp,Gloombat|Demon Sprite|Demon Imp|Demon Gremlin|Blood Diver|Fiend|Desert Wing|Demon Trickster
+mummy_undead,undead,16,15,4.07,5,mummy|unraveler,Unraveler|Preserved Dead|Horadrim Ancient|Hollow One|Guardian|Embalmed|Dried Corpse|Decayed
+wildlife_critter,critter,16,0,0.0,0,__blank__,an evil force|Eagle|Bunny
+cat_warrior,humanoid,15,15,3.07,4,pantherwoman,Huntress|Spear Cat|Slinger|Saber Cat|Night Tiger|Night Slinger|Hell Slinger|Hell Cat
+zakarum_cult,humanoid,15,15,3.8,5,councilmember|zakarum,Council Member|Hierophant|Zealot|Zakarumite|Sexton|Faithful|Cantor
+zombie_undead,undead,14,14,2.64,5,undead|zombie,an evil force|Griswold|Zombie|Reanimated Horde|Plague Bearer|Defiled Warrior|Unholy Corpse|Rot Walker
+avian_pack,avian,13,13,2.62,3,foulcrow|vulture,Foul Crow|Cloud Stalker|Blood Hawk|Black Raptor|Winged Nightmare|Undead Scavenger|Hell Buzzard|Carrion Bird
+quill_beast,beast,13,13,2.08,3,quillrat,Razor Spine|Thorn Brute|Thorn Beast|Spike Giant|Spike Fiend|Razor Beast|Quill Rat|Quill Bear
+viper_reptile,reptile,10,10,5.0,5,clawviper,Tomb Viper|Serpent Magus|Salamander|Pit Viper|Claw Viper
+flying_insectoid,insectoid,9,9,2.22,3,mosquito|swarm,Blood Wing|Blood Hook|Sucker|Plague Bugs|Itchies|Hell Swarm|Feeder|Black Locusts
+spirit_undead,spirit,9,9,4.0,4,wraith,Wraith|Specter|Ghost|Dark Shape|Apparition
+vampire_demon,demon,9,9,4.0,4,vampire,The Banished|Night Lord|Ghoul Lord|Dark Lord|Blood Lord
+arcane_spirit,spirit,8,8,5.75,6,willowisp,Gloam|Burning Soul|Black Soul|Swamp Ghost
+beetle_insectoid,insectoid,8,8,4.0,4,scarab,Steel Scarab|Scarab|Dung Soldier|Death Beetle|Bone Scarab
+simian_beast,beast,8,8,2.0,2,baboon,Temple Guard|Rock Dweller|Night Marauder|Jungle Hunter|Dune Beast|Doom Ape
+arachnid_insectoid,insectoid,7,7,3.14,4,arach,Flame Spider|Spider Magus|Sand Fisher|Poison Spinner|Arach
+beast_demon,demon,7,7,4.0,4,frogdemon|regurgitator,Swamp Dweller|Slime Prince|Maw Fiend|Corpulent|Corpse Spitter|Bog Creature
+fetish_tribe,undead,7,7,5.14,6,undeadfetish,Undead Stygian Doll|Undead Soul Killer|Undead Rat Man|Undead Flayer|Undead Fetish
+leaper_reptile,reptile,7,7,3.0,3,sandleaper,Tree Lurker|Tomb Creeper|Sand Leaper|Cliff Lurker|Cave Leaper
+demonic_humanoid,humanoid,6,6,4.0,4,overseer,Overseer|Overlord|Lasher|Hell Whip|Blood Boss
+tentacle_aberration,construct,6,6,3.0,3,tentacle,Water Watcher|Stygian Watcher|River Stalker
+caster_demon,demon,5,5,4.0,4,fingermage,Strangler|Storm Caster|Doom Caster
+insectoid_aberration,insectoid,5,5,3.0,3,putriddefiler,Wretched Defiler|Rank Defiler|Rancid Defiler|Putrid Defiler|Fetid Defiler
+npc_or_story,npc,5,0,0.0,0,__blank__,Tyrael|Izual|Dark Wanderer
+plant_aberration,construct,5,5,2.2,3,thornhulk,Thrasher|Thorned Hulk|Spikefist|Bramble Hulk
+golem_construct,summon,4,4,3.25,4,golem,Blood Golem|Iron Golem|Fire Golem|Clay Golem
+insectoid_other,insectoid,4,4,2.0,2,__blank__,an evil force|Maggot|Larva
+bovine_beast,beast,2,2,2.5,3,bovine,Hell Bovine

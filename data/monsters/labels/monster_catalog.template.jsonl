@@ -1,0 +1,2 @@
+{"monster_id":"m_fallen_shaman","slug":"fallen_shaman","display_name":"Fallen Shaman","family":"fallen","acts":[1],"areas":["Blood Moor","Cold Plains"],"is_boss":false,"is_minion":false,"source_refs":["https://arreatsummit.net/..."],"notes":"starter example"}
+{"monster_id":"m_venom_lord","slug":"venom_lord","display_name":"Venom Lord","family":"demon","acts":[4],"areas":["River of Flame","Chaos Sanctuary"],"is_boss":false,"is_minion":false,"source_refs":["https://arreatsummit.net/..."],"notes":"starter example"}

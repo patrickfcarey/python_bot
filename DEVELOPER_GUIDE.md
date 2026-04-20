@@ -1,107 +1,84 @@
-# Developer Guide - Diablo II Offline AI Bot
+# Developer Guide - Diablo II Offline Bot
 
-This guide explains architecture, modules, lifecycle, testing, and extension points for developers and AI agents.
+## Architecture
 
-## 1. Project Overview
+Runtime flow:
+1. startup checks and logging setup
+2. game window detection (title first, OCR fallback)
+3. optional auto-centering
+4. automap capture region derivation
+5. frame capture -> state extraction -> policy/combat -> controller execution
+6. optional performance monitoring and report export
 
-Pipeline:
-1. Vision captures and interprets automap frames.
-2. `GameState` represents structured world state.
-3. `StateManager` tracks high-level lifecycle.
-4. `CommandModule` can override policy actions.
-5. Policy generates `Action`.
-6. Controller executes actions via keyboard/mouse.
-7. Main loop runs at controlled FPS.
+Core modules:
+- [bot/main.py](bot/main.py): CLI and orchestration
+- [bot/config.py](bot/config.py): runtime configuration dataclass
+- [bot/window_manager.py](bot/window_manager.py): window location and centering
+- [bot/vision.py](bot/vision.py): capture and OCR-backed teammate detection + enemy scan stub
+- [bot/enemy_tracker.py](bot/enemy_tracker.py): enemy track association stub
+- [bot/combat.py](bot/combat.py): combat decision stubs
+- [bot/performance.py](bot/performance.py): stage timing, FPS analysis, JSON report output
+- [bot/policy/rule_policy.py](bot/policy/rule_policy.py): baseline follow behavior
+- [bot/controller.py](bot/controller.py): input execution abstraction
+- [bot/ocr_dataset.py](bot/ocr_dataset.py): OCR crop collector
 
-## 2. Module Responsibilities
+## Commands
 
-### `bot/config.py`
-- Global constants and runtime knobs.
-- Includes control keys, template/screenshot paths, vision thresholds, and debug toggle.
+- `python -m bot.main center-window --debug`
+- `python -m bot.main collect-ocr --samples 500 --interval 0.35 --debug`
+- `python -m bot.main run --dry-run --debug --max-frames 300`
+- `python -m bot.main run --dry-run --debug --enable-combat-stub --max-frames 300`
+- `python -m bot.main run --debug`
+- `python -m bot.main perf-test --target-fps 50 --fps 50 --warmup-frames 120 --frames 600 --synthetic --debug`
 
-### `bot/game_state.py`
-- Defines `GameState` dataclass.
-- Stores player position, teammate positions, relative vectors, loading flag, level number, optional `last_action`.
+## Performance Framework
 
-### `bot/controller.py`
-- Defines `Action` container (`click_target`, `cast_spell`, `stop`).
-- Executes low-level keyboard/mouse behavior.
+- `perf-test` captures per-frame stage timings:
+  - `capture`
+  - `vision`
+  - `state`
+  - `decision`
+  - `control`
+  - `sleep`
+- it computes p50/p95/p99 frame-time, average achieved FPS, and target pass/fail
+- it writes JSON reports under `logs/perf/` (or `--output-json` override)
+- target FPS pass condition requires both average and p95 frame-time to satisfy target frame budget
 
-### `bot/vision.py`
-- Captures automap region and extracts state.
-- Loading detection uses brightness threshold.
-- Teammate detection uses template matching and OCR gate.
+## Production Notes
 
-### `bot/policy/rule_policy.py`
-- Baseline rule policy.
-- Uses first relative vector and `TURN_SENSITIVITY` to pick click target.
+- `run_startup_checks` verifies tesseract availability and required directories.
+- controller supports `dry_run` to prevent live input during verification.
+- state transitions are controlled by `StateManager` and `BotLifecycle` enum.
+- window centering is done before starting capture loop to stabilize automap region.
+- combat stubs are opt-in behind `--enable-combat-stub`.
 
-### `bot/policy/ml_policy.py`
-- Stub for model-backed policy replacement.
+## Enemy/Combat Stubs
 
-### `bot/state_manager.py`
-- Tracks `loading`, `new_level`, `playing`.
-- Uses `LEVEL_STABILIZE_TIME` from config.
+- `Vision.scan_enemies` is a placeholder heuristic and should be replaced with robust detection.
+- `EnemyTracker` currently uses nearest-neighbor matching per frame.
+- `CombatRoutine` currently chooses nearest tracked target and emits simple spell/move actions.
+- Keep this path in dry-run until detection quality is validated.
 
-### `bot/command_module.py`
-- FIFO queue of override `Action` objects.
+## OCR Training Pipeline
 
-### `bot/utils/timing.py`
-- FPS limiter helper.
+Use [OCR_WORKFLOW.md](OCR_WORKFLOW.md).
 
-### `bot/main.py`
-- Entry point for orchestrating capture -> state -> decision -> control.
+Collection output:
+- `data/ocr/raw/*.png`
+- `data/ocr/raw/manifest.jsonl`
 
-## 3. Data Flow
+## Testing
 
-- Vision -> `GameState`
-- `GameState` -> StateManager
-- `GameState` -> CommandModule / Policy
-- Action -> Controller
-- Repeat at target FPS
-
-## 4. Lifecycle
-
-1. Capture frame
-2. Build `GameState`
-3. Update lifecycle state
-4. Pull override command if available
-5. Otherwise run policy
-6. Execute action
-7. Wait for FPS budget
-
-## 5. Testing
-
-Run from repo root:
-
-```bash
+```powershell
 python -m pytest bot/tests -q
 ```
 
-Tests currently cover:
-- Rule policy output shape
-- State manager transition behavior
-- Controller movement key behavior (mocked)
-
-## 6. Extension Points
-
-- Replace `RulePolicy` with ML policy that maps `GameState -> Action`
-- Add richer command types in `CommandModule`
-- Extend vision pipeline with stronger detector models
-- Add dataset logging around `(state, action)` pairs
-
-## 7. Recommended Workflow
-
-1. Create/activate venv
-2. Install dependencies
-3. Run tests
-4. Implement change
-5. Re-run tests
-6. Update docs if behavior or structure changed
-
-## 8. Notes for AI Developers
-
-- Entry point: `python -m bot.main`
-- Keep Vision, Policy, and Controller decoupled
-- Keep offline-only usage constraints explicit
-- Favor deterministic tests over live-input tests
+Current tests cover:
+- policy behavior
+- controller action execution
+- lifecycle transitions
+- command queue FIFO behavior
+- region math for automap cropping
+- enemy tracker ID continuity and timeout behavior
+- combat stub decision behavior
+- performance monitor summary and JSON reporting

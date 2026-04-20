@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "source": "web_seed_pack",
+  "pickup_gold": true,
+  "min_gold_amount": 400,
+  "gold_priority": 35,
+  "rules": [
+    {
+      "name": "runes",
+      "contains": [
+        "rune"
+      ],
+      "priority": 95,
+      "enabled": true
+    },
+    {
+      "name": "keys",
+      "contains": [
+        "key"
+      ],
+      "priority": 88,
+      "enabled": true
+    },
+    {
+      "name": "charms",
+      "contains": [
+        "charm"
+      ],
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "name": "jewels",
+      "contains": [
+        "jewel"
+      ],
+      "priority": 80,
+      "enabled": true
+    },
+    {
+      "name": "rejuvenation_potions",
+      "contains": [
+        "rejuvenation"
+      ],
+      "priority": 78,
+      "enabled": true
+    },
+    {
+      "name": "healing_potions",
+      "contains": [
+        "healing potion",
+        "healing"
+      ],
+      "priority": 72,
+      "enabled": true
+    },
+    {
+      "name": "mana_potions",
+      "contains": [
+        "mana potion",
+        "mana"
+      ],
+      "priority": 70,
+      "enabled": true
+    },
+    {
+      "name": "gems",
+      "contains": [
+        "gem",
+        "skull"
+      ],
+      "priority": 68,
+      "enabled": true
+    },
+    {
+      "name": "organs",
+      "contains": [
+        "essence",
+        "token",
+        "key of",
+        "baal's eye",
+        "mephisto's brain",
+        "diablo's horn"
+      ],
+      "priority": 82,
+      "enabled": true
+    }
+  ]
+}

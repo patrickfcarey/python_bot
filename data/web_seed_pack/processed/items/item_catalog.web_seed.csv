@@ -1,0 +1,693 @@
+code,name,item_class,type,level,source_file,namestr
+j34,A Jade Figurine,misc,ques,0,misc.json,j34
+uow,Aegis,armor,shie,79,armor.json,uow
+pa4,Aerin Shield,armor,ashd,20,armor.json,pa4
+pa7,Akaran Rondache,armor,ashd,40,armor.json,pa7
+pa6,Akaran Targe,armor,ashd,35,armor.json,pa6
+dr6,Alpha Helm,armor,pelt,35,armor.json,dr6
+gsv,Amethyst,misc,gema,0,misc.json,gsv
+r11,Amn Rune,misc,rune,25,misc.json,r11
+amu,Amulet,misc,amul,1,misc.json,amu
+vip,Amulet of the Viper,misc,amul,15,misc.json,vip
+aar,Ancient Armor,armor,tors,40,armor.json,aar
+9gi,Ancient Axe,weapons,axe,51,weapons.json,9gi
+pad,Ancient Shield,armor,ashd,74,armor.json,pad
+xts,Ancient Shield,armor,shie,56,armor.json,xts
+9wd,Ancient Sword,weapons,swor,49,weapons.json,9wd
+yps,Antidote Potion,misc,apot,0,misc.json,yps
+dr3,Antlers,armor,pelt,16,armor.json,dr3
+8lx,Arbalest,weapons,xbow,34,weapons.json,8lx
+utp,Archon Plate,armor,tors,84,armor.json,utp
+6ws,Archon Staff,weapons,staf,85,weapons.json,6ws
+ulm,Armet,armor,helm,68,armor.json,ulm
+aqv,Arrows,misc,bowq,0,misc.json,aqv
+am6,Ashwood Bow,weapons,abow,39,weapons.json,am6
+ba4,Assault Helmet,armor,phlm,20,armor.json,ba4
+7sm,Ataghan,weapons,swor,61,weapons.json,7sm
+ba5,Avenger Guard,armor,phlm,24,armor.json,ba5
+axe,Axe,weapons,axe,7,weapons.json,axe
+bey,Baal's Eye,misc,ques,0,misc.json,bey
+bal,Balanced Axe,weapons,taxe,16,weapons.json,bal
+bkf,Balanced Knife,weapons,tkni,13,weapons.json,bkf
+8hx,Ballista,weapons,xbow,47,weapons.json,8hx
+7gs,Balrog Blade,weapons,swor,71,weapons.json,7gs
+upl,Balrog Skin,armor,tors,76,armor.json,upl
+7s7,Balrog Spear,weapons,jave,71,weapons.json,7s7
+9sp,Barbed Club,weapons,club,32,weapons.json,9sp
+xpk,Barbed Shield,armor,shie,42,armor.json,xpk
+bar,Bardiche,weapons,pole,5,weapons.json,bar
+xhl,Basinet,armor,helm,45,armor.json,xhl
+bsw,Bastard Sword,weapons,swor,24,weapons.json,bsw
+btx,Battle Axe,weapons,axe,17,weapons.json,btx
+ztb,Battle Belt,armor,belt,49,armor.json,ztb
+xtb,Battle Boots,armor,boot,49,armor.json,xtb
+7cs,Battle Cestus,weapons,h2h2,73,weapons.json,7cs
+9tk,Battle Dart,weapons,tkni,31,weapons.json,9tk
+xtg,Battle Gauntlets,armor,glov,49,armor.json,xtg
+9wh,Battle Hammer,weapons,hamm,48,weapons.json,9wh
+9s8,Battle Scythe,weapons,pole,40,weapons.json,9s8
+bst,Battle Staff,weapons,staf,17,weapons.json,bst
+9bs,Battle Sword,weapons,swor,40,weapons.json,9bs
+9ba,Bearded Axe,weapons,axe,38,weapons.json,9ba
+9h9,Bec-de-Corbin,weapons,pole,51,weapons.json,9h9
+mbl,Belt,armor,belt,12,armor.json,mbl
+r30,Ber Rune,misc,rune,63,misc.json,r30
+7wa,Berserker Axe,weapons,axe,85,weapons.json,7wa
+9vo,Bill,weapons,pole,37,weapons.json,9vo
+bld,Blade,weapons,knif,23,weapons.json,bld
+upk,Blade Barrier,armor,shie,68,armor.json,upk
+6hb,Blade Bow,weapons,bow,60,weapons.json,6hb
+btl,Blade Talons,weapons,h2h,21,weapons.json,btl
+wae,Blasphemous Compendium,armor,grim,81,armor.json,wae
+waf,Blasphemous Grimoire,armor,grim,85,armor.json,waf
+drb,Blood Spirit,armor,pelt,62,armor.json,drb
+nef,Bloodlord Skull,armor,head,85,armor.json,nef
+cqv,Bolts,misc,xboq,0,misc.json,cqv
+bhm,Bone Helm,armor,helm,22,armor.json,bhm
+7dg,Bone Knife,weapons,knif,58,weapons.json,7dg
+bsh,Bone Shield,armor,shie,19,armor.json,bsh
+uh9,Bone Visage,armor,helm,84,armor.json,uh9
+bwn,Bone Wand,weapons,wand,18,weapons.json,bwn
+uhn,Boneweave,armor,tors,62,armor.json,uhn
+umb,Boneweave Boots,armor,boot,72,armor.json,umb
+ass,Book of Skill,misc,ques,0,misc.json,ass
+lbt,Boots,armor,boot,3,armor.json,lbt
+brz,Brain,misc,body,0,misc.json,brz
+ulg,Bramble Mitts,armor,glov,57,armor.json,ulg
+brn,Brandistock,weapons,spea,16,weapons.json,brn
+brs,Breast Plate,armor,tors,18,armor.json,brs
+bax,Broad Axe,weapons,axe,12,weapons.json,bax
+bsd,Broad Sword,weapons,swor,15,weapons.json,bsd
+buc,Buckler,armor,shie,1,armor.json,buc
+bet,Burning Essence of Terror,misc,ques,0,misc.json,bet
+wa6,Burnt Text,armor,grim,33,armor.json,wa6
+9wn,Burnt Wand,weapons,wand,31,weapons.json,9wn
+7ws,Caduceus,weapons,scep,85,weapons.json,7ws
+ne9,Cantor Trophy,armor,head,49,armor.json,ne9
+cap,Cap,armor,helm,1,armor.json,cap
+bab,Carnage Helm,armor,phlm,60,armor.json,bab
+xlm,Casque,armor,helm,42,armor.json,xlm
+8lb,Cedar Bow,weapons,bow,35,weapons.json,8lb
+8cs,Cedar Staff,weapons,staf,38,weapons.json,8cs
+am7,Ceremonial Bow,weapons,abow,47,weapons.json,am7
+ama,Ceremonial Javelin,weapons,ajav,35,weapons.json,ama
+am9,Ceremonial Pike,weapons,aspe,51,weapons.json,am9
+am8,Ceremonial Spear,weapons,aspe,43,weapons.json,am8
+ces,Cestus,weapons,h2h,15,weapons.json,ces
+mbt,Chain Boots,armor,boot,12,armor.json,mbt
+mgl,Chain Gloves,armor,glov,12,armor.json,mgl
+chn,Chain Mail,armor,tors,15,armor.json,chn
+r32,Cham Rune,misc,rune,67,misc.json,r32
+7ga,Champion Axe,weapons,axe,82,weapons.json,7ga
+7b7,Champion Sword,weapons,swor,77,weapons.json,7b7
+xul,Chaos Armor,armor,tors,61,armor.json,xul
+ceh,Charged Essense of Hatred,misc,ques,0,misc.json,ceh
+gcv,Chipped Amethyst,misc,gema,0,misc.json,gcv
+gcw,Chipped Diamond,misc,gemd,0,misc.json,gcw
+gcg,Chipped Emerald,misc,geme,0,misc.json,gcg
+gcr,Chipped Ruby,misc,gemr,0,misc.json,gcr
+gcb,Chipped Sapphire,misc,gems,0,misc.json,gcb
+skc,Chipped Skull,misc,gemz,0,misc.json,skc
+gcy,Chipped Topaz,misc,gemt,0,misc.json,gcy
+gpm,Choking Gas Potion,weapons,tpot,20,weapons.json,gpm
+8rx,Chu-Ko-Nu,weapons,xbow,54,weapons.json,8rx
+9kr,Cinquedeas,weapons,knif,42,weapons.json,9kr
+ci0,Circlet,armor,circ,24,armor.json,ci0
+ob4,Clasped Orb,weapons,orb,17,weapons.json,ob4
+clw,Claws,weapons,h2h,18,weapons.json,clw
+clm,Claymore,weapons,swor,17,weapons.json,clm
+9ax,Cleaver,weapons,axe,34,weapons.json,9ax
+ob8,Cloudy Sphere,weapons,orb,41,weapons.json,ob8
+clb,Club,weapons,club,1,weapons.json,clb
+wa3,Codex,armor,grim,16,armor.json,wa3
+cjw,Colossal Jewel,misc,cjwl,1,misc.json,jew
+7fb,Colossal Sword,weapons,swor,80,weapons.json,7fb
+7gd,Colossus Blade,weapons,swor,85,weapons.json,7gd
+6hx,Colossus Crossbow,weapons,xbow,75,weapons.json,6hx
+uhc,Colossus Girdle,armor,belt,85,armor.json,uhc
+7vo,Colossus Voulge,weapons,pole,64,weapons.json,7vo
+wa4,Compendium,armor,grim,20,armor.json,wa4
+cbw,Composite Bow,weapons,bow,12,weapons.json,cbw
+bae,Conqueror Crown,armor,phlm,80,armor.json,bae
+7bs,Conquest Sword,weapons,swor,78,weapons.json,7bs
+urn,Corona,armor,helm,85,armor.json,urn
+ci1,Coronet,armor,circ,52,armor.json,ci1
+cs2,Crafted Sunder Charm,misc,csch,1,misc.json,cm3
+mxb,Crossbow,weapons,xbow,15,weapons.json,mxb
+9mp,Crowbill,weapons,axe,43,weapons.json,9mp
+crn,Crown,armor,helm,29,armor.json,crn
+pa5,Crown Shield,armor,ashd,24,armor.json,pa5
+6l7,Crusader Bow,weapons,bow,77,weapons.json,6l7
+utg,Crusader Gauntlets,armor,glov,76,armor.json,utg
+7pa,Cryptic Axe,weapons,pole,79,weapons.json,7pa
+7ls,Cryptic Sword,weapons,swor,82,weapons.json,7ls
+crs,Crystal Sword,weapons,swor,11,weapons.json,crs
+ob7,Crystalline Globe,weapons,orb,37,weapons.json,ob7
+9cl,Cudgel,weapons,club,30,weapons.json,9cl
+xrs,Cuirass,armor,tors,47,armor.json,xrs
+9sm,Cutlass,weapons,swor,43,weapons.json,9sm
+9cm,Dacian Falx,weapons,swor,42,weapons.json,9cm
+dgr,Dagger,weapons,knif,3,weapons.json,dgr
+wa8,Dark Codex,armor,grim,45,armor.json,wa8
+wa7,Dark Tome,armor,grim,39,armor.json,wa7
+xsk,Death Mask,armor,helm,48,armor.json,xsk
+7bt,Decapitator,weapons,axe,73,weapons.json,7bt
+d33,Decoy Gidbinn,weapons,knif,0,weapons.json,d33
+xa4,Deep Worldstone Shard,misc,ques,75,misc.json,xa4
+xuc,Defender,armor,shie,34,armor.json,xuc
+6rx,Demon Crossbow,weapons,xbow,84,weapons.json,6rx
+ne5,Demon Head,armor,head,24,armor.json,ne5
+obd,Demon Heart,weapons,orb,75,weapons.json,obd
+usk,Demonhead,armor,helm,74,armor.json,usk
+xla,Demonhide Armor,armor,tors,37,armor.json,xla
+xlb,Demonhide Boots,armor,boot,36,armor.json,xlb
+xlg,Demonhide Gloves,armor,glov,33,armor.json,xlg
+zlb,Demonhide Sash,armor,belt,36,armor.json,zlb
+bad,Destroyer Helm,armor,phlm,73,armor.json,bad
+7mt,Devil Star,weapons,mace,70,weapons.json,7mt
+dhn,Diablo's Horn,misc,ques,0,misc.json,dhn
+ci3,Diadem,armor,circ,85,armor.json,ci3
+gsw,Diamond,misc,gemd,0,misc.json,gsw
+6s7,Diamond Bow,weapons,bow,72,weapons.json,6s7
+ung,Diamond Mail,armor,tors,72,armor.json,ung
+9cr,Dimensional Blade,weapons,swor,37,weapons.json,9cr
+obf,Dimensional Shard,weapons,orb,85,weapons.json,obf
+dir,Dirk,weapons,knif,9,weapons.json,dir
+9ws,Divine Scepter,weapons,scep,45,weapons.json,9ws
+r14,Dol Rune,misc,rune,31,misc.json,r14
+2ax,Double Axe,weapons,axe,13,weapons.json,2ax
+8cb,Double Bow,weapons,bow,39,weapons.json,8cb
+xit,Dragon Shield,armor,shie,45,armor.json,xit
+drf,Dream Spirit,armor,pelt,85,armor.json,drf
+uui,Dusk Shroud,armor,tors,65,armor.json,uui
+ob1,Eagle Orb,weapons,orb,1,weapons.json,ob1
+ear,Ear,misc,play,0,misc.json,ear
+drd,Earth Spirit,armor,pelt,76,armor.json,drd
+xa2,Eastern Worldstone Shard,misc,ques,75,misc.json,xa2
+8sb,Edge Bow,weapons,bow,30,weapons.json,8sb
+r01,El Rune,misc,rune,11,misc.json,r01
+r02,Eld Rune,misc,rune,11,misc.json,r02
+6cs,Elder Staff,weapons,staf,74,weapons.json,6cs
+obc,Eldritch Orb,weapons,orb,67,weapons.json,obc
+7sb,Elegant Blade,weapons,swor,63,weapons.json,7sb
+elx,Elixir,misc,elix,21,misc.json,elx
+xth,Embossed Plate,armor,tors,58,armor.json,xth
+gsg,Emerald,misc,geme,0,misc.json,gsg
+92h,Espandon,weapons,swor,37,weapons.json,92h
+r05,Eth Rune,misc,rune,15,misc.json,r05
+72a,Ettin Axe,weapons,axe,70,weapons.json,72a
+9gd,Executioner Sword,weapons,swor,54,weapons.json,9gd
+opm,Exploding Potion,weapons,tpot,16,weapons.json,opm
+eyz,Eye,misc,body,0,misc.json,eyz
+r19,Fal Rune,misc,rune,41,misc.json,r19
+7ss,Falcata,weapons,swor,56,weapons.json,7ss
+flc,Falchion,weapons,swor,11,weapons.json,flc
+dr4,Falcon Mask,armor,pelt,20,armor.json,dr4
+fng,Fang,misc,body,0,misc.json,fng
+ba2,Fanged Helm,armor,phlm,8,armor.json,ba2
+7kr,Fanged Knife,weapons,knif,83,weapons.json,7kr
+9xf,Fascia,weapons,h2h,36,weapons.json,9xf
+7la,Feral Axe,weapons,axe,57,weapons.json,7la
+7lw,Feral Claws,weapons,h2h2,78,weapons.json,7lw
+fed,Festering Essence of Destruction,misc,ques,0,misc.json,fed
+ne7,Fetish Trophy,armor,head,39,armor.json,ne7
+fld,Field Plate,armor,tors,28,armor.json,fld
+flg,Flag,misc,body,0,misc.json,flg
+fla,Flail,weapons,mace,19,weapons.json,fla
+flb,Flamberge,weapons,swor,27,weapons.json,flb
+9ma,Flanged Mace,weapons,mace,35,weapons.json,9ma
+gfv,Flawed Amethyst,misc,gema,0,misc.json,gfv
+gfw,Flawed Diamond,misc,gemd,0,misc.json,gfw
+gfg,Flawed Emerald,misc,geme,0,misc.json,gfg
+gfr,Flawed Ruby,misc,gemr,0,misc.json,gfr
+gfb,Flawed Sapphire,misc,gems,0,misc.json,gfb
+skf,Flawed Skull,misc,gemz,0,misc.json,skf
+gfy,Flawed Topaz,misc,gemt,0,misc.json,gfy
+gzv,Flawless Amethyst,misc,gema,0,misc.json,gzv
+glw,Flawless Diamond,misc,gemd,0,misc.json,glw
+glg,Flawless Emerald,misc,geme,0,misc.json,glg
+glr,Flawless Ruby,misc,gemr,0,misc.json,glr
+glb,Flawless Sapphire,misc,gems,0,misc.json,glb
+skl,Flawless Skull,misc,gemz,0,misc.json,skl
+gly,Flawless Topaz,misc,gemt,0,misc.json,gly
+7ta,Flying Axe,weapons,taxe,56,weapons.json,7ta
+7tk,Flying Knife,weapons,tkni,64,weapons.json,7tk
+wab,Forgotten Volume,armor,grim,59,armor.json,wab
+9ta,Francisca,weapons,taxe,34,weapons.json,9ta
+hpf,Full Healing Potion,misc,hpot,0,misc.json,hpf
+fhl,Full Helm,armor,helm,15,armor.json,fhl
+mpf,Full Mana Potion,misc,mpot,0,misc.json,mpf
+ful,Full Plate Mail,armor,tors,37,armor.json,ful
+rvl,Full Rejuvenation Potion,misc,rpot,0,misc.json,rvl
+opl,Fulminating Potion,weapons,tpot,4,weapons.json,opl
+bac,Fury Visor,armor,phlm,66,armor.json,bac
+9tr,Fuscina,weapons,spea,36,weapons.json,9tr
+ne4,Gargoyle Head,armor,head,20,armor.json,ne4
+hgl,Gauntlets,armor,glov,27,armor.json,hgl
+xui,Ghost Armor,armor,tors,34,armor.json,xui
+7gl,Ghost Glaive,weapons,jave,79,weapons.json,7gl
+7st,Ghost Spear,weapons,spea,83,weapons.json,7st
+7yw,Ghost Wand,weapons,wand,65,weapons.json,7yw
+gix,Giant Axe,weapons,axe,27,weapons.json,gix
+uhl,Giant Conch,armor,helm,54,armor.json,uhl
+gis,Giant Sword,weapons,swor,21,weapons.json,gis
+7wc,Giant Thresher,weapons,pole,85,weapons.json,7wc
+pa9,Gilded Shield,armor,ashd,51,armor.json,pa9
+9ss,Gladius,weapons,swor,30,weapons.json,9ss
+glv,Glaive,weapons,jave,23,weapons.json,glv
+7gi,Glorious Axe,weapons,axe,85,weapons.json,7gi
+ob6,Glowing Orb,weapons,orb,32,weapons.json,ob6
+cst,Gnarled Staff,weapons,staf,12,weapons.json,cst
+gld,Gold,misc,gold,0,misc.json,gld
+6mx,Gorgon Crossbow,weapons,xbow,67,weapons.json,6mx
+9ga,Gothic Axe,weapons,axe,46,weapons.json,9ga
+8lw,Gothic Bow,weapons,bow,52,weapons.json,8lw
+gth,Gothic Plate,armor,tors,32,armor.json,gth
+gts,Gothic Shield,armor,shie,30,armor.json,gts
+8bs,Gothic Staff,weapons,staf,42,weapons.json,8bs
+9b9,Gothic Sword,weapons,swor,48,weapons.json,9b9
+cm3,Grand Charm,misc,lcha,1,misc.json,cm3
+xrn,Grand Crown,armor,helm,55,armor.json,xrn
+amc,Grand Matron Bow,weapons,abow,78,weapons.json,amc
+gsc,Grand Scepter,weapons,scep,15,weapons.json,gsc
+9gw,Grave Wand,weapons,wand,49,weapons.json,9gw
+gax,Great Axe,weapons,axe,23,weapons.json,gax
+6cb,Great Bow,weapons,bow,68,weapons.json,6cb
+urs,Great Hauberk,armor,tors,75,armor.json,urs
+ghm,Great Helm,armor,helm,23,armor.json,ghm
+gma,Great Maul,weapons,hamm,32,weapons.json,gma
+9pi,Great Pilum,weapons,jave,37,weapons.json,9pi
+7h7,Great Poleaxe,weapons,pole,84,weapons.json,7h7
+gsd,Great Sword,weapons,swor,33,weapons.json,gsd
+9lw,Greater Claws,weapons,h2h2,45,weapons.json,9lw
+hp4,Greater Healing Potion,misc,hpot,0,misc.json,hp4
+mp4,Greater Mana Potion,misc,mpot,0,misc.json,mp4
+9tw,Greater Talons,weapons,h2h2,50,weapons.json,9tw
+hbt,Greaves,armor,boot,27,armor.json,hbt
+dr7,Griffon Headress,armor,pelt,40,armor.json,dr7
+xh9,Grim Helm,armor,helm,50,armor.json,xh9
+9wc,Grim Scythe,weapons,pole,55,weapons.json,9wc
+xsh,Grim Shield,armor,shie,48,armor.json,xsh
+gwn,Grim Wand,weapons,wand,26,weapons.json,gwn
+wa5,Grimoire,armor,grim,24,armor.json,wa5
+baf,Guardian Crown,armor,phlm,85,armor.json,baf
+r25,Gul Rune,misc,rune,53,misc.json,r25
+hal,Halberd,weapons,pole,29,weapons.json,hal
+hax,Hand Axe,weapons,axe,3,weapons.json,hax
+9cs,Hand Scythe,weapons,h2h2,41,weapons.json,9cs
+hla,Hard Leather Armor,armor,tors,5,armor.json,hla
+9ts,Harpoon,weapons,jave,51,weapons.json,9ts
+9ha,Hatchet,weapons,axe,31,weapons.json,9ha
+axf,Hatchet Hands,weapons,h2h,12,weapons.json,axf
+dr2,Hawk Helm,armor,pelt,8,armor.json,dr2
+hp3,Healing Potion,misc,hpot,0,misc.json,hp3
+hpo,Healing Potion,misc,hpot,0,misc.json,hpo
+hrt,Heart,misc,body,0,misc.json,hrt
+uuc,Heater,armor,shie,58,armor.json,uuc
+obb,Heavenly Stone,weapons,orb,59,weapons.json,obb
+tbl,Heavy Belt,armor,belt,20,armor.json,tbl
+vbt,Heavy Boots,armor,boot,7,armor.json,vbt
+xmg,Heavy Bracers,armor,glov,43,armor.json,xmg
+hxb,Heavy Crossbow,weapons,xbow,24,weapons.json,hxb
+vgl,Heavy Gloves,armor,glov,7,armor.json,vgl
+nea,Heirophant Trophy,armor,head,54,armor.json,nea
+r15,Hel Rune,misc,rune,33,misc.json,r15
+hfh,Hellforge Hammer,weapons,hamm,0,weapons.json,hfh
+ult,Hellforge Plate,armor,tors,78,armor.json,ult
+neg,Hellspawn Skull,armor,head,67,armor.json,neg
+hlm,Helm,armor,helm,11,armor.json,hlm
+pa3,Heraldic Shield,armor,ashd,16,armor.json,pa3
+hrb,Herb,misc,herb,3,misc.json,hrb
+7cm,Highland Blade,weapons,swor,66,weapons.json,7cm
+9qs,Holy Water Sprinkler,weapons,scep,40,weapons.json,9qs
+box,Horadric Cube,misc,ques,0,misc.json,box
+hdm,Horadric Malus,weapons,hamm,0,weapons.json,hdm
+tr1,Horadric Scroll,misc,ques,0,misc.json,tr1
+hst,Horadric Staff,weapons,staf,0,weapons.json,hst
+hrn,Horn,misc,body,0,misc.json,hrn
+ba3,Horned Helm,armor,phlm,16,armor.json,ba3
+hbw,Hunter's Bow,weapons,bow,5,weapons.json,hbw
+dr8,Hunter's Guise,armor,pelt,46,armor.json,dr8
+9b8,Hurlbat,weapons,taxe,41,weapons.json,9b8
+6lw,Hydra Bow,weapons,bow,85,weapons.json,6lw
+7fc,Hydra Edge,weapons,swor,69,weapons.json,7fc
+ukp,Hydraskull,armor,helm,63,armor.json,ukp
+urg,Hyperion,armor,shie,64,armor.json,urg
+7ja,Hyperion Javelin,weapons,jave,54,weapons.json,7ja
+7sr,Hyperion Spear,weapons,spea,58,weapons.json,7sr
+r16,Io Rune,misc,rune,35,misc.json,r16
+r24,Ist Rune,misc,rune,51,misc.json,r24
+r06,Ith Rune,misc,rune,15,misc.json,r06
+9mt,Jagged Star,weapons,mace,39,weapons.json,9mt
+r31,Jah Rune,misc,rune,65,misc.json,r31
+ob5,Jared's Stone,weapons,orb,24,weapons.json,ob5
+jav,Javelin,weapons,jave,1,weapons.json,jav
+jaw,Jawbone,misc,body,0,misc.json,jaw
+ba1,Jawbone Cap,armor,phlm,4,armor.json,ba1
+ba6,Jawbone Visor,armor,phlm,33,armor.json,ba6
+jew,Jewel,misc,jewl,1,misc.json,jew
+8ss,Jo Staff,weapons,staf,30,weapons.json,8ss
+ktr,Katar,weapons,h2h,1,weapons.json,ktr
+key,Key,misc,key,0,misc.json,key
+pk3,Key of Destruction,misc,ques,0,misc.json,pk3
+pk2,Key of Hate,misc,ques,0,misc.json,pk2
+pk1,Key of Terror,misc,ques,0,misc.json,pk1
+bkd,Key to the Cairn Stones,misc,ques,0,misc.json,bkd
+qbr,Khalim's Brain,misc,ques,0,misc.json,qbr
+qey,Khalim's Eye,misc,ques,0,misc.json,qey
+qf1,Khalim's Flail,weapons,mace,0,weapons.json,qf1
+qhr,Khalim's Heart,misc,ques,0,misc.json,qhr
+qf2,Khalim's Will,weapons,mace,0,weapons.json,qf2
+kit,Kite Shield,armor,shie,15,armor.json,kit
+9fl,Knout,weapons,mace,43,weapons.json,9fl
+r18,Ko Rune,misc,rune,39,misc.json,r18
+uld,Kraken Shell,armor,tors,81,armor.json,uld
+kri,Kriss,weapons,knif,17,weapons.json,kri
+uth,Lacquered Plate,armor,tors,82,armor.json,uth
+bbb,Lam Esen's Tome,misc,ques,0,misc.json,bbb
+9p9,Lance,weapons,spea,47,weapons.json,9p9
+lax,Large Axe,weapons,axe,6,weapons.json,lax
+bpl,Large Blue Potion,misc,mpot,0,misc.json,bpl
+cm2,Large Charm,misc,mcha,14,misc.json,cm2
+rpl,Large Red Potion,misc,hpot,0,misc.json,rpl
+lrg,Large Shield,armor,shie,11,armor.json,lrg
+lea,Leather Armor,armor,tors,3,armor.json,lea
+lgl,Leather Gloves,armor,glov,3,armor.json,lgl
+7bl,Legend Spike,weapons,knif,85,weapons.json,7bl
+72h,Legend Sword,weapons,swor,59,weapons.json,72h
+7wh,Legendary Mallet,weapons,hamm,82,weapons.json,7wh
+r20,Lem Rune,misc,rune,43,misc.json,r20
+7bw,Lich Wand,weapons,wand,75,weapons.json,7bw
+vbl,Light Belt,armor,belt,7,armor.json,vbl
+lxb,Light Crossbow,weapons,xbow,6,weapons.json,lxb
+tgl,Light Gauntlets,armor,glov,20,armor.json,tgl
+hp2,Light Healing Potion,misc,hpot,0,misc.json,hp2
+mp2,Light Mana Potion,misc,mpot,0,misc.json,mp2
+ltp,Light Plate,armor,tors,35,armor.json,ltp
+tbt,Light Plated Boots,armor,boot,20,armor.json,tbt
+xng,Linked Mail,armor,tors,42,armor.json,xng
+ba7,Lion Helm,armor,phlm,38,armor.json,ba7
+r28,Lo Rune,misc,rune,59,misc.json,r28
+9b7,Lochaber Axe,weapons,pole,33,weapons.json,9b7
+lbb,Long Battle Bow,weapons,bow,23,weapons.json,lbb
+lbw,Long Bow,weapons,bow,8,weapons.json,lbw
+8l8,Long Siege Bow,weapons,bow,46,weapons.json,8l8
+lst,Long Staff,weapons,staf,8,weapons.json,lst
+lsd,Long Sword,weapons,swor,20,weapons.json,lsd
+lwb,Long War Bow,weapons,bow,31,weapons.json,lwb
+ucl,Loricated Mail,armor,tors,73,armor.json,ucl
+r17,Lum Rune,misc,rune,37,misc.json,r17
+uml,Luna,armor,shie,61,armor.json,uml
+mac,Mace,weapons,mace,8,weapons.json,mac
+xtp,Mage Plate,armor,tors,60,armor.json,xtp
+am5,Maiden Javelin,weapons,ajav,23,weapons.json,am5
+am4,Maiden Pike,weapons,aspe,27,weapons.json,am4
+am3,Maiden Spear,weapons,aspe,18,weapons.json,am3
+r23,Mal Rune,misc,rune,49,misc.json,r23
+ice,Malah's Potion,misc,ques,0,misc.json,ice
+mp3,Mana Potion,misc,mpot,0,misc.json,mp3
+mpo,Mana Potion,misc,mpot,0,misc.json,mpo
+7br,Mancatcher,weapons,spea,74,weapons.json,7br
+9gm,Martel de Fer,weapons,hamm,53,weapons.json,9gm
+msk,Mask,armor,helm,19,armor.json,msk
+amb,Matriarchal Bow,weapons,abow,53,weapons.json,amb
+amf,Matriarchal Javelin,weapons,ajav,65,weapons.json,amf
+ame,Matriarchal Pike,weapons,aspe,81,weapons.json,ame
+amd,Matriarchal Spear,weapons,aspe,61,weapons.json,amd
+mau,Maul,weapons,hamm,21,weapons.json,mau
+mbr,Mephisto's Brain,misc,ques,0,misc.json,mbr
+mss,Mephisto's Soulstone,misc,ques,0,misc.json,mss
+xhn,Mesh Armor,armor,tors,45,armor.json,xhn
+zmb,Mesh Belt,armor,belt,43,armor.json,zmb
+xmb,Mesh Boots,armor,boot,43,armor.json,xmb
+7sc,Mighty Scepter,weapons,scep,62,weapons.json,7sc
+9la,Military Axe,weapons,axe,34,weapons.json,9la
+mpi,Military Pick,weapons,axe,19,weapons.json,mpi
+neb,Minion Skull,armor,head,59,armor.json,neb
+hp1,Minor Healing Potion,misc,hpot,0,misc.json,hp1
+mp1,Minor Mana Potion,misc,mpot,0,misc.json,mp1
+utb,Mirrored Boots,armor,boot,81,armor.json,utb
+7di,Mithral Point,weapons,knif,70,weapons.json,7di
+umc,Mithril Coil,armor,belt,75,armor.json,umc
+uit,Monarch,armor,shie,72,armor.json,uit
+mst,Morning Star,weapons,mace,13,weapons.json,mst
+ne6,Mummified Trophy,armor,head,33,armor.json,ne6
+uhb,Myrmidon Greaves,armor,boot,85,armor.json,uhb
+7wd,Mythical Sword,weapons,swor,85,weapons.json,7wd
+9wa,Naga,weapons,axe,48,weapons.json,9wa
+r04,Nef Rune,misc,rune,13,misc.json,r04
+xa5,Northern Worldstone Shard,misc,ques,75,misc.json,xa5
+wad,Occult Codex,armor,grim,66,armor.json,wad
+wac,Occult Tome,armor,grim,67,armor.json,wac
+7o7,Ogre Axe,weapons,pole,60,weapons.json,7o7
+uhg,Ogre Gauntlets,armor,glov,85,armor.json,uhg
+7m7,Ogre Maul,weapons,hamm,69,weapons.json,7m7
+r27,Ohm Rune,misc,rune,57,misc.json,r27
+ops,Oil Potion,weapons,tpot,28,weapons.json,ops
+wa1,Old Book,armor,grim,4,armor.json,wa1
+xar,Ornate Armor,armor,tors,64,armor.json,xar
+r09,Ort Rune,misc,rune,21,misc.json,r09
+ned,Overseer Skull,armor,head,66,armor.json,ned
+9pa,Partizan,weapons,pole,35,weapons.json,9pa
+xow,Pavise,armor,shie,50,armor.json,xow
+6lx,Pellet Bow,weapons,xbow,57,weapons.json,6lx
+gpv,Perfect Amethyst,misc,gema,0,misc.json,gpv
+gpw,Perfect Diamond,misc,gemd,0,misc.json,gpw
+gpg,Perfect Emerald,misc,geme,0,misc.json,gpg
+gpr,Perfect Ruby,misc,gemr,0,misc.json,gpr
+gpb,Perfect Sapphire,misc,gems,0,misc.json,gpb
+skz,Perfect Skull,misc,gemz,0,misc.json,skz
+gpy,Perfect Topaz,misc,gemt,0,misc.json,gpy
+9yw,Petrified Wand,weapons,wand,38,weapons.json,9yw
+7cr,Phase Blade,weapons,swor,73,weapons.json,7cr
+pik,Pike,weapons,spea,24,weapons.json,pik
+pil,Pilum,weapons,jave,10,weapons.json,pil
+plt,Plate Mail,armor,tors,24,armor.json,plt
+hbl,Plated Belt,armor,belt,27,armor.json,hbl
+9dg,Poignard,weapons,knif,31,weapons.json,9dg
+pax,Poleaxe,weapons,pole,21,weapons.json,pax
+7wn,Polished Wand,weapons,wand,55,weapons.json,7wn
+wa9,Possessed Compendium,armor,grim,49,armor.json,wa9
+waa,Possessed Grimoire,armor,grim,54,armor.json,waa
+xyz,Potion of Life,misc,ques,0,misc.json,xyz
+ne1,Preserved Head,armor,head,4,armor.json,ne1
+pa8,Protector Shield,armor,ashd,46,armor.json,pa8
+r21,Pul Rune,misc,rune,45,misc.json,r21
+8ls,Quarterstaff,weapons,staf,35,weapons.json,8ls
+9ar,Quhab,weapons,h2h,28,weapons.json,9ar
+qll,Quill,misc,body,0,misc.json,qll
+qui,Quilted Armor,armor,tors,1,armor.json,qui
+ba8,Rage Mask,armor,phlm,44,armor.json,ba8
+r08,Ral Rune,misc,rune,19,misc.json,r08
+gps,Rancid Gas Potion,weapons,tpot,32,weapons.json,gps
+8hb,Razor Bow,weapons,bow,33,weapons.json,8hb
+am2,Reflex Bow,weapons,abow,27,weapons.json,am2
+7ma,Reinforced Mace,weapons,mace,63,weapons.json,7ma
+rvs,Rejuvenation Potion,misc,rpot,0,misc.json,rvs
+rxb,Repeating Crossbow,weapons,xbow,33,weapons.json,rxb
+rin,Ring,misc,ring,1,misc.json,rin
+rng,Ring Mail,armor,tors,11,armor.json,rng
+pa2,Rondache,armor,ashd,8,armor.json,pa2
+9di,Rondel,weapons,knif,36,weapons.json,9di
+xml,Round Shield,armor,shie,37,armor.json,xml
+paa,Royal Shield,armor,ashd,55,armor.json,paa
+gsr,Ruby,misc,gemr,0,misc.json,gsr
+8sw,Rune Bow,weapons,bow,49,weapons.json,8sw
+9sc,Rune Scepter,weapons,scep,31,weapons.json,9sc
+8ws,Rune Staff,weapons,staf,47,weapons.json,8ws
+9ls,Rune Sword,weapons,swor,44,weapons.json,9ls
+7tw,Runic Talons,weapons,h2h2,81,weapons.json,7tw
+xpl,Russet Armor,armor,tors,49,armor.json,xpl
+sbr,Saber,weapons,swor,8,weapons.json,sbr
+uar,Sacred Armor,armor,tors,85,armor.json,uar
+dr9,Sacred Feathers,armor,pelt,50,armor.json,dr9
+ob2,Sacred Globe,weapons,orb,8,weapons.json,ob2
+pac,Sacred Rondache,armor,ashd,70,armor.json,pac
+pab,Sacred Targe,armor,ashd,63,armor.json,pab
+xkp,Sallet,armor,helm,37,armor.json,xkp
+gsb,Sapphire,misc,gems,0,misc.json,gsb
+lbl,Sash,armor,belt,3,armor.json,lbl
+ba9,Savage Helmet,armor,phlm,49,armor.json,ba9
+scl,Scale Mail,armor,tors,13,armor.json,scl
+scz,Scalp,misc,body,0,misc.json,scz
+ula,Scarab Husk,armor,tors,68,armor.json,ula
+uvb,Scarabshell Boots,armor,boot,66,armor.json,uvb
+scp,Scepter,weapons,scep,3,weapons.json,scp
+scm,Scimitar,weapons,swor,5,weapons.json,scm
+skr,Scissors Katar,weapons,h2h,24,weapons.json,skr
+9qr,Scissors Quhab,weapons,h2h2,54,weapons.json,9qr
+7qr,Scissors Suwayyah,weapons,h2h2,85,weapons.json,7qr
+7fl,Scourge,weapons,mace,76,weapons.json,7fl
+isc,Scroll of Identify,misc,scro,0,misc.json,isc
+bks,Scroll of Inifuss,misc,ques,0,misc.json,bks
+0sc,Scroll of Knowledge,misc,scro,0,misc.json,0sc
+tr2,Scroll of Resistance,misc,ques,0,misc.json,tr2
+tsc,Scroll of Town Portal,misc,scro,0,misc.json,tsc
+xrg,Scutum,armor,shie,42,armor.json,xrg
+scy,Scythe,weapons,pole,15,weapons.json,scy
+7qs,Seraph Rod,weapons,scep,76,weapons.json,7qs
+xea,Serpentskin Armor,armor,tors,36,armor.json,xea
+ne8,Sexton Trophy,armor,head,45,armor.json,ne8
+6lb,Shadow Bow,weapons,bow,63,weapons.json,6lb
+uul,Shadow Plate,armor,tors,83,armor.json,uul
+r13,Shael Rune,misc,rune,29,misc.json,r13
+uap,Shako,armor,helm,58,armor.json,uap
+9sb,Shamshir,weapons,swor,35,weapons.json,9sb
+zvb,Sharkskin Belt,armor,belt,39,armor.json,zvb
+xvb,Sharkskin Boots,armor,boot,39,armor.json,xvb
+xvg,Sharkskin Gloves,armor,glov,39,armor.json,xvg
+xld,Sharktooth Armor,armor,tors,55,armor.json,xld
+6bs,Shillelagh,weapons,staf,83,weapons.json,6bs
+sbb,Short Battle Bow,weapons,bow,18,weapons.json,sbb
+sbw,Short Bow,weapons,bow,1,weapons.json,sbw
+8s8,Short Siege Bow,weapons,bow,43,weapons.json,8s8
+ssp,Short Spear,weapons,jave,15,weapons.json,ssp
+sst,Short Staff,weapons,staf,1,weapons.json,sst
+ssd,Short Sword,weapons,swor,1,weapons.json,ssd
+swb,Short War Bow,weapons,bow,27,weapons.json,swb
+8mx,Siege Crossbow,weapons,xbow,40,weapons.json,8mx
+7ba,Silver-edged Axe,weapons,axe,65,weapons.json,7ba
+9s9,Simbilan,weapons,jave,40,weapons.json,9s9
+sku,Skull,misc,gemz,0,misc.json,sku
+skp,Skull Cap,armor,helm,5,armor.json,skp
+dre,Sky Spirit,armor,pelt,83,armor.json,dre
+baa,Slayer Guard,armor,phlm,54,armor.json,baa
+bps,Small Blue Potion,misc,mpot,0,misc.json,bps
+cm1,Small Charm,misc,scha,28,misc.json,cm1
+7ax,Small Crescent,weapons,axe,61,weapons.json,7ax
+rps,Small Red Potion,misc,hpot,0,misc.json,rps
+sml,Small Shield,armor,shie,5,armor.json,sml
+ob3,Smoked Sphere,weapons,orb,12,weapons.json,ob3
+r12,Sol Rune,misc,rune,27,misc.json,r12
+sol,Soul,misc,body,0,misc.json,sol
+xa3,Southern Worldstone Shard,misc,ques,75,misc.json,xa3
+ob9,Sparkling Ball,weapons,orb,46,weapons.json,ob9
+spr,Spear,weapons,spea,5,weapons.json,spr
+spt,Spetum,weapons,spea,20,weapons.json,spt
+9gl,Spiculum,weapons,jave,46,weapons.json,9gl
+6sb,Spider Bow,weapons,bow,55,weapons.json,6sb
+ulc,Spiderweb Sash,armor,belt,61,armor.json,ulc
+spc,Spiked Club,weapons,club,4,weapons.json,spc
+spk,Spiked Shield,armor,shie,11,armor.json,spk
+uhm,Spired Helm,armor,helm,79,armor.json,uhm
+dr5,Spirit Mask,armor,pelt,24,armor.json,dr5
+spe,Spleen,misc,body,0,misc.json,spe
+spl,Splint Mail,armor,tors,20,armor.json,spl
+msf,Staff of Kings,weapons,staf,0,weapons.json,msf
+am1,Stag Bow,weapons,abow,18,weapons.json,am1
+6ls,Stalagmite,weapons,staf,66,weapons.json,6ls
+vps,Stamina Potion,misc,spot,0,misc.json,vps
+std,Standard of Heroes,misc,ques,90,misc.json,std
+9bl,Stilleto,weapons,knif,46,weapons.json,9bl
+gpl,Strangling Gas Potion,weapons,tpot,8,weapons.json,gpl
+stu,Studded Leather,armor,tors,8,armor.json,stu
+7tr,Stygian Pike,weapons,spea,66,weapons.json,7tr
+7pi,Stygian Pilum,weapons,jave,62,weapons.json,7pi
+nee,Succubus Skull,armor,head,81,armor.json,nee
+drc,Sun Spirit,armor,pelt,69,armor.json,drc
+hp5,Super Healing Potion,misc,hpot,0,misc.json,hp5
+mp5,Super Mana Potion,misc,mpot,0,misc.json,mp5
+r29,Sur Rune,misc,rune,61,misc.json,r29
+7ar,Suwayyah,weapons,h2h2,59,weapons.json,7ar
+oba,Swirling Crystal,weapons,orb,50,weapons.json,oba
+9bt,Tabar,weapons,axe,42,weapons.json,9bt
+tal,Tail,misc,body,0,misc.json,tal
+r07,Tal Rune,misc,rune,17,misc.json,r07
+pa1,Targe,armor,ashd,4,armor.json,pa1
+xlt,Templar Coat,armor,tors,52,armor.json,xlt
+wms,Thawing Potion,misc,wpot,0,misc.json,wms
+luv,The Black Tower Key,misc,key,0,misc.json,luv
+g33,The Gidbinn,weapons,knif,0,weapons.json,g33
+g34,The Golden Bird,misc,ques,0,misc.json,g34
+7s8,Thresher,weapons,pole,71,weapons.json,7s8
+tax,Throwing Axe,weapons,taxe,7,weapons.json,tax
+tkf,Throwing Knife,weapons,tkni,2,weapons.json,tkf
+tsp,Throwing Spear,weapons,jave,29,weapons.json,tsp
+r10,Thul Rune,misc,rune,23,misc.json,r10
+7gm,Thunder Maul,weapons,hamm,85,weapons.json,7gm
+ci2,Tiara,armor,circ,70,armor.json,ci2
+xcl,Tigulated Mail,armor,tors,43,armor.json,xcl
+r03,Tir Rune,misc,rune,13,misc.json,r03
+toa,Token of Absolution,misc,ques,0,misc.json,toa
+7ha,Tomahawk,weapons,axe,54,weapons.json,7ha
+9bw,Tomb Wand,weapons,wand,43,weapons.json,9bw
+wa2,Tome,armor,grim,8,armor.json,wa2
+ibk,Tome of Identify,misc,book,0,misc.json,ibk
+tbk,Tome of Town Portal,misc,book,0,misc.json,tbk
+gsy,Topaz,misc,gemt,0,misc.json,gsy
+tch,Torch,misc,torc,0,misc.json,tch
+dra,Totemic Mask,armor,pelt,55,armor.json,dra
+tow,Tower Shield,armor,shie,22,armor.json,tow
+xtu,Trellised Armor,armor,tors,40,armor.json,xtu
+tri,Trident,weapons,spea,9,weapons.json,tri
+utc,Troll Belt,armor,belt,82,armor.json,utc
+ush,Troll Nest,armor,shie,76,armor.json,ush
+7cl,Truncheon,weapons,club,52,weapons.json,7cl
+9fc,Tulwar,weapons,swor,37,weapons.json,9fc
+9gs,Tusk Sword,weapons,swor,45,weapons.json,9gs
+92a,Twin Axe,weapons,axe,39,weapons.json,92a
+tes,Twisted Essence of Suffering,misc,ques,0,misc.json,tes
+2hs,Two-Handed Sword,weapons,swor,10,weapons.json,2hs
+7sp,Tyrant Club,weapons,club,57,weapons.json,7sp
+ua1,Uber Ancient Summon Material Act 1,misc,ques,0,misc.json,ua1
+ua2,Uber Ancient Summon Material Act 2,misc,ques,0,misc.json,ua2
+ua3,Uber Ancient Summon Material Act 3,misc,ques,0,misc.json,ua3
+ua4,Uber Ancient Summon Material Act 4,misc,ques,0,misc.json,ua4
+ua5,Uber Ancient Summon Material Act5,misc,ques,0,misc.json,ua5
+um3,Uber Ancient Upgrade Material  Cold,misc,ques,0,misc.json,um3
+um1,Uber Ancient Upgrade Material  Fire,misc,ques,0,misc.json,um1
+um5,Uber Ancient Upgrade Material Lightning,misc,ques,0,misc.json,um5
+um6,Uber Ancient Upgrade Material Magic,misc,ques,0,misc.json,um6
+um4,Uber Ancient Upgrade Material Physical,misc,ques,0,misc.json,um4
+um2,Uber Ancient Upgrade Material Poison,misc,ques,0,misc.json,um2
+r22,Um Rune,misc,rune,47,misc.json,r22
+7gw,Unearthed Wand,weapons,wand,86,weapons.json,7gw
+ne3,Unraveller Head,armor,head,16,armor.json,ne3
+umg,Vambraces,armor,glov,69,armor.json,umg
+uvg,Vampirebone Gloves,armor,glov,63,armor.json,uvg
+uvc,Vampirefang Belt,armor,belt,68,armor.json,uvc
+r26,Vex Rune,misc,rune,55,misc.json,r26
+obe,Vortex Orb,weapons,orb,84,weapons.json,obe
+paf,Vortex Shield,armor,ashd,85,armor.json,paf
+vou,Voulge,weapons,pole,11,weapons.json,vou
+6ss,Walking Stick,weapons,staf,58,weapons.json,6ss
+wnd,Wand,weapons,wand,2,weapons.json,wnd
+wax,War Axe,weapons,axe,25,weapons.json,wax
+zhb,War Belt,armor,belt,54,armor.json,zhb
+xhb,War Boots,armor,boot,54,armor.json,xhb
+9m9,War Club,weapons,hamm,45,weapons.json,9m9
+9bk,War Dart,weapons,tkni,39,weapons.json,9bk
+7xf,War Fist,weapons,h2h2,68,weapons.json,7xf
+9br,War Fork,weapons,spea,41,weapons.json,9br
+xhg,War Gauntlets,armor,glov,54,armor.json,xhg
+whm,War Hammer,weapons,hamm,25,weapons.json,whm
+xap,War Hat,armor,helm,34,armor.json,xap
+9ja,War Javelin,weapons,jave,30,weapons.json,9ja
+7p7,War Pike,weapons,spea,85,weapons.json,7p7
+wsp,War Scepter,weapons,scep,21,weapons.json,wsp
+wsc,War Scythe,weapons,pole,34,weapons.json,wsc
+9sr,War Spear,weapons,spea,33,weapons.json,9sr
+7mp,War Spike,weapons,axe,79,weapons.json,7mp
+wst,War Staff,weapons,staf,24,weapons.json,wst
+wsd,War Sword,weapons,swor,27,weapons.json,wsd
+uts,Ward,armor,shie,84,armor.json,uts
+6sw,Ward Bow,weapons,bow,80,weapons.json,6sw
+xa1,Western Worldstone Shard,misc,ques,75,misc.json,xa1
+7b8,Winged Axe,weapons,taxe,80,weapons.json,7b8
+7ts,Winged Harpoon,weapons,jave,85,weapons.json,7ts
+xhm,Winged Helm,armor,helm,51,armor.json,xhm
+7bk,Winged Knife,weapons,tkni,77,weapons.json,7bk
+utu,Wire Fleece,armor,tors,70,armor.json,utu
+leg,Wirt's Leg,weapons,club,0,weapons.json,leg
+dr1,Wolf Head,armor,pelt,4,armor.json,dr1
+wrb,Wrist Blade,weapons,h2h,9,weapons.json,wrb
+9wb,Wrist Spike,weapons,h2h,32,weapons.json,9wb
+7wb,Wrist Sword,weapons,h2h2,62,weapons.json,7wb
+uea,Wyrmhide,armor,tors,67,armor.json,uea
+ulb,Wyrmhide Boots,armor,boot,60,armor.json,ulb
+9st,Yari,weapons,spea,44,weapons.json,9st
+ywn,Yew Wand,weapons,wand,12,weapons.json,ywn
+pae,Zakarum Shield,armor,ashd,82,armor.json,pae
+r33,Zod Rune,misc,rune,69,misc.json,r33
+ne2,Zombie Head,armor,head,8,armor.json,ne2
+9fb,Zweihander,weapons,swor,49,weapons.json,9fb

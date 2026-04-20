@@ -1,0 +1,1177 @@
+{
+  "generated_at_utc": "2026-04-16T04:03:40+00:00",
+  "source_csv": "C:/github/python_bot/data/web_seed_pack/processed/monsters/d2data_monstats.web_seed.csv",
+  "row_count": 751,
+  "distinct_raw_families": 56,
+  "distinct_family_groups": 42,
+  "broad_archetype_counts": {
+    "demon": 216,
+    "humanoid": 156,
+    "undead": 85,
+    "object": 60,
+    "insectoid": 51,
+    "beast": 49,
+    "construct": 38,
+    "summon": 28,
+    "reptile": 17,
+    "spirit": 17,
+    "critter": 16,
+    "avian": 13,
+    "npc": 5
+  },
+  "combat_counts": {
+    "combat_relevant": 576,
+    "non_combat": 175
+  },
+  "danger_priority_counts": {
+    "1": 10,
+    "2": 115,
+    "3": 207,
+    "4": 170,
+    "5": 55,
+    "6": 19
+  },
+  "human_consensus_band_counts": {
+    "caution": 339,
+    "routine": 112,
+    "dangerous": 59,
+    "feared": 43,
+    "run_ending": 23
+  },
+  "threat_vector_primary_counts": {
+    "melee_pressure": 285,
+    "ranged_pressure": 94,
+    "debuff_control": 71,
+    "attrition_drain": 42,
+    "spawn_pressure": 23,
+    "on_death_burst": 19,
+    "turret_lane": 19,
+    "area_denial": 10,
+    "ranged_burst": 7,
+    "melee_burst": 6
+  },
+  "engagement_profile_counts": {
+    "frontline_melee": 181,
+    "rushdown_melee": 165,
+    "ranged_pressure": 122,
+    "debuff_caster": 32,
+    "turret_zone": 27,
+    "support_spawner": 23,
+    "suicide_rusher": 19,
+    "sniper": 7
+  },
+  "mobility_class_counts": {
+    "slow_heavy": 147,
+    "kiting": 141,
+    "fast": 131,
+    "standard": 130,
+    "stationary": 27
+  },
+  "trait_counts": {
+    "melee_attacker": 434,
+    "aura_scaling": 395,
+    "archer": 234,
+    "ranged_attacker": 234,
+    "archetype_demon": 216,
+    "heavy_melee": 174,
+    "archetype_humanoid": 156,
+    "light_mover": 136,
+    "elemental_fire": 133,
+    "ranged_magic": 103,
+    "high_threat": 87,
+    "archetype_undead": 85,
+    "life_drain": 79,
+    "critical_threat": 74,
+    "elemental_cold": 62,
+    "elite_unique": 62,
+    "superunique": 62,
+    "archetype_object": 60,
+    "elemental_poison": 57,
+    "elemental_lightning": 55,
+    "corpse_or_spawn_pressure": 52,
+    "summoner": 52,
+    "archetype_insectoid": 51,
+    "archetype_beast": 49,
+    "crowd_control": 49,
+    "ranged_physical": 44,
+    "turret": 43,
+    "debuff_source": 41,
+    "archetype_construct": 38,
+    "curse": 34,
+    "act_boss": 31,
+    "archetype_summon": 28,
+    "mana_drain": 26,
+    "resurrector": 25,
+    "doll_exploder": 19,
+    "explode": 19,
+    "on_death_hazard": 19,
+    "super_critical_threat": 19,
+    "archetype_reptile": 17,
+    "archetype_spirit": 17,
+    "archetype_critter": 16,
+    "archetype_avian": 13,
+    "viper_cloud": 10,
+    "leaper": 7,
+    "lightning_sniper": 7,
+    "projectile_burst": 7,
+    "burst_melee": 6,
+    "frenzy_melee": 6,
+    "archetype_npc": 5
+  },
+  "family_group_counts": [
+    {
+      "family_group": "human",
+      "broad_archetype": "humanoid",
+      "count": 76,
+      "combat_relevant_count": 25,
+      "avg_danger_priority_combat": 1.64,
+      "max_danger_priority_combat": 3,
+      "raw_families": [
+        "human"
+      ],
+      "examples": [
+        "The Summoner",
+        "an evil force",
+        "Talic",
+        "Madawc",
+        "Korlic",
+        "Iron Wolf",
+        "Guard",
+        "Desert Mercenary"
+      ]
+    },
+    {
+      "family_group": "demon_legion",
+      "broad_archetype": "demon",
+      "count": 75,
+      "combat_relevant_count": 75,
+      "avg_danger_priority_combat": 4.48,
+      "max_danger_priority_combat": 5,
+      "raw_families": [
+        "bloodlord",
+        "demon",
+        "doomknight",
+        "megademon",
+        "minion"
+      ],
+      "examples": [
+        "The Smith",
+        "Radament",
+        "Oblivion Knight",
+        "Moon Lord",
+        "Minion of Destruction",
+        "Mephisto",
+        "Lilith",
+        "Hephasto The Armorer"
+      ]
+    },
+    {
+      "family_group": "environment_object",
+      "broad_archetype": "object",
+      "count": 60,
+      "combat_relevant_count": 0,
+      "avg_danger_priority_combat": 0.0,
+      "max_danger_priority_combat": 0,
+      "raw_families": [
+        "__blank__"
+      ],
+      "examples": [
+        "an evil force",
+        "a Trap",
+        "Worldstone Effect",
+        "Trapped Soul",
+        "Talic the Defender",
+        "Sucker Nest",
+        "Stained Glass Window",
+        "Sand Maggot Egg"
+      ]
+    },
+    {
+      "family_group": "skeleton_undead",
+      "broad_archetype": "undead",
+      "count": 48,
+      "combat_relevant_count": 48,
+      "avg_danger_priority_combat": 2.67,
+      "max_danger_priority_combat": 5,
+      "raw_families": [
+        "skeleton"
+      ],
+      "examples": [
+        "Death Mage",
+        "Burning Dead Mage",
+        "Skeleton",
+        "Skeletal Mage",
+        "Returned Mage",
+        "Horror Mage",
+        "Bone Mage",
+        "Skeleton Archer"
+      ]
+    },
+    {
+      "family_group": "fallen_clan",
+      "broad_archetype": "demon",
+      "count": 44,
+      "combat_relevant_count": 41,
+      "avg_danger_priority_combat": 2.51,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "__blank__",
+        "bighead",
+        "fallen",
+        "vilekind"
+      ],
+      "examples": [
+        "Warped Shaman",
+        "Fallen Shaman",
+        "Devilkin Shaman",
+        "Dark Shaman",
+        "Carver Shaman",
+        "Tainted",
+        "Stygian Hag",
+        "Flesh Spawner"
+      ]
+    },
+    {
+      "family_group": "construct_siege",
+      "broad_archetype": "construct",
+      "count": 27,
+      "combat_relevant_count": 27,
+      "avg_danger_priority_combat": 2.85,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "construct",
+        "siegebeast"
+      ],
+      "examples": [
+        "Blood Bringer",
+        "a Turret",
+        "a Trap",
+        "Wake of Fire",
+        "Siege Beast",
+        "Mummy Sarcophagus",
+        "Lightning Spire",
+        "Lightning Sentry"
+      ]
+    },
+    {
+      "family_group": "brute_beast",
+      "broad_archetype": "beast",
+      "count": 26,
+      "combat_relevant_count": 26,
+      "avg_danger_priority_combat": 3.19,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "blunderbore",
+        "brute",
+        "deathmauler",
+        "frozenhorror",
+        "snowyeti"
+      ],
+      "examples": [
+        "Frozen Creeper",
+        "Frozen Abyss",
+        "Death Mauler",
+        "Death Brigadier",
+        "Brute",
+        "Yeti",
+        "Wailing Beast",
+        "Urdar"
+      ]
+    },
+    {
+      "family_group": "fetish_tribe",
+      "broad_archetype": "demon",
+      "count": 25,
+      "combat_relevant_count": 25,
+      "avg_danger_priority_combat": 4.32,
+      "max_danger_priority_combat": 6,
+      "raw_families": [
+        "fetish"
+      ],
+      "examples": [
+        "Stygian Doll",
+        "Soul Killer",
+        "Soul Killer Shaman",
+        "Stygian Doll Shaman",
+        "RatMan Shaman",
+        "Flayer Shaman",
+        "Fetish Shaman",
+        "Rat Man"
+      ]
+    },
+    {
+      "family_group": "corrupt_rogue",
+      "broad_archetype": "humanoid",
+      "count": 24,
+      "combat_relevant_count": 24,
+      "avg_danger_priority_combat": 3.21,
+      "max_danger_priority_combat": 5,
+      "raw_families": [
+        "corruptrogue"
+      ],
+      "examples": [
+        "Blood Raven",
+        "Flesh Hunter",
+        "Dark Stalker",
+        "Dark Ranger",
+        "Vile Lancer",
+        "Vile Hunter",
+        "Vile Archer",
+        "Flesh Lancer"
+      ]
+    },
+    {
+      "family_group": "summon_or_pet",
+      "broad_archetype": "summon",
+      "count": 24,
+      "combat_relevant_count": 0,
+      "avg_danger_priority_combat": 0.0,
+      "max_danger_priority_combat": 0,
+      "raw_families": [
+        "__blank__"
+      ],
+      "examples": [
+        "poisonorb",
+        "lightningbeast",
+        "iceglobe",
+        "firebeast",
+        "Wolf",
+        "Vine Creature",
+        "Valkyrie",
+        "Spirit of Barbs"
+      ]
+    },
+    {
+      "family_group": "goatman_clan",
+      "broad_archetype": "humanoid",
+      "count": 20,
+      "combat_relevant_count": 20,
+      "avg_danger_priority_combat": 3.15,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "goatman",
+        "sandraider"
+      ],
+      "examples": [
+        "Invader",
+        "Blood Clan",
+        "Sand Raider",
+        "Night Clan",
+        "Moon Clan",
+        "Marauder",
+        "Infidel",
+        "Hell Clan"
+      ]
+    },
+    {
+      "family_group": "demon_variant_untyped",
+      "broad_archetype": "demon",
+      "count": 18,
+      "combat_relevant_count": 4,
+      "avg_danger_priority_combat": 4.0,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "__blank__"
+      ],
+      "examples": [
+        "gorgon4",
+        "gorgon3",
+        "gorgon2",
+        "gorgon1",
+        "darkguard5",
+        "darkguard4",
+        "darkguard3",
+        "darkguard2"
+      ]
+    },
+    {
+      "family_group": "maggot_insectoid",
+      "broad_archetype": "insectoid",
+      "count": 18,
+      "combat_relevant_count": 18,
+      "avg_danger_priority_combat": 3.39,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "sandmaggot"
+      ],
+      "examples": [
+        "Sand Maggot Queen",
+        "Blood Maggot Young",
+        "Blood Maggot Queen",
+        "Blood Maggot",
+        "Sand Maggot Young",
+        "Sand Maggot",
+        "Rock Worm Young",
+        "Rock Worm Queen"
+      ]
+    },
+    {
+      "family_group": "succubus_coven",
+      "broad_archetype": "demon",
+      "count": 17,
+      "combat_relevant_count": 17,
+      "avg_danger_priority_combat": 4.0,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "succubus"
+      ],
+      "examples": [
+        "Vile Witch",
+        "Vile Temptress",
+        "Succubus",
+        "Stygian Harlot",
+        "Stygian Fury",
+        "Siren",
+        "Hell Witch",
+        "Hell Temptress"
+      ]
+    },
+    {
+      "family_group": "imp_pack",
+      "broad_archetype": "demon",
+      "count": 16,
+      "combat_relevant_count": 15,
+      "avg_danger_priority_combat": 3.33,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "__blank__",
+        "batdemon",
+        "imp"
+      ],
+      "examples": [
+        "Gloombat",
+        "Demon Sprite",
+        "Demon Imp",
+        "Demon Gremlin",
+        "Blood Diver",
+        "Fiend",
+        "Desert Wing",
+        "Demon Trickster"
+      ]
+    },
+    {
+      "family_group": "mummy_undead",
+      "broad_archetype": "undead",
+      "count": 16,
+      "combat_relevant_count": 15,
+      "avg_danger_priority_combat": 4.07,
+      "max_danger_priority_combat": 5,
+      "raw_families": [
+        "mummy",
+        "unraveler"
+      ],
+      "examples": [
+        "Unraveler",
+        "Preserved Dead",
+        "Horadrim Ancient",
+        "Hollow One",
+        "Guardian",
+        "Embalmed",
+        "Dried Corpse",
+        "Decayed"
+      ]
+    },
+    {
+      "family_group": "wildlife_critter",
+      "broad_archetype": "critter",
+      "count": 16,
+      "combat_relevant_count": 0,
+      "avg_danger_priority_combat": 0.0,
+      "max_danger_priority_combat": 0,
+      "raw_families": [
+        "__blank__"
+      ],
+      "examples": [
+        "an evil force",
+        "Eagle",
+        "Bunny"
+      ]
+    },
+    {
+      "family_group": "cat_warrior",
+      "broad_archetype": "humanoid",
+      "count": 15,
+      "combat_relevant_count": 15,
+      "avg_danger_priority_combat": 3.07,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "pantherwoman"
+      ],
+      "examples": [
+        "Huntress",
+        "Spear Cat",
+        "Slinger",
+        "Saber Cat",
+        "Night Tiger",
+        "Night Slinger",
+        "Hell Slinger",
+        "Hell Cat"
+      ]
+    },
+    {
+      "family_group": "zakarum_cult",
+      "broad_archetype": "humanoid",
+      "count": 15,
+      "combat_relevant_count": 15,
+      "avg_danger_priority_combat": 3.8,
+      "max_danger_priority_combat": 5,
+      "raw_families": [
+        "councilmember",
+        "zakarum"
+      ],
+      "examples": [
+        "Council Member",
+        "Hierophant",
+        "Zealot",
+        "Zakarumite",
+        "Sexton",
+        "Faithful",
+        "Cantor"
+      ]
+    },
+    {
+      "family_group": "zombie_undead",
+      "broad_archetype": "undead",
+      "count": 14,
+      "combat_relevant_count": 14,
+      "avg_danger_priority_combat": 2.64,
+      "max_danger_priority_combat": 5,
+      "raw_families": [
+        "undead",
+        "zombie"
+      ],
+      "examples": [
+        "an evil force",
+        "Griswold",
+        "Zombie",
+        "Reanimated Horde",
+        "Plague Bearer",
+        "Defiled Warrior",
+        "Unholy Corpse",
+        "Rot Walker"
+      ]
+    },
+    {
+      "family_group": "avian_pack",
+      "broad_archetype": "avian",
+      "count": 13,
+      "combat_relevant_count": 13,
+      "avg_danger_priority_combat": 2.62,
+      "max_danger_priority_combat": 3,
+      "raw_families": [
+        "foulcrow",
+        "vulture"
+      ],
+      "examples": [
+        "Foul Crow",
+        "Cloud Stalker",
+        "Blood Hawk",
+        "Black Raptor",
+        "Winged Nightmare",
+        "Undead Scavenger",
+        "Hell Buzzard",
+        "Carrion Bird"
+      ]
+    },
+    {
+      "family_group": "quill_beast",
+      "broad_archetype": "beast",
+      "count": 13,
+      "combat_relevant_count": 13,
+      "avg_danger_priority_combat": 2.08,
+      "max_danger_priority_combat": 3,
+      "raw_families": [
+        "quillrat"
+      ],
+      "examples": [
+        "Razor Spine",
+        "Thorn Brute",
+        "Thorn Beast",
+        "Spike Giant",
+        "Spike Fiend",
+        "Razor Beast",
+        "Quill Rat",
+        "Quill Bear"
+      ]
+    },
+    {
+      "family_group": "viper_reptile",
+      "broad_archetype": "reptile",
+      "count": 10,
+      "combat_relevant_count": 10,
+      "avg_danger_priority_combat": 5.0,
+      "max_danger_priority_combat": 5,
+      "raw_families": [
+        "clawviper"
+      ],
+      "examples": [
+        "Tomb Viper",
+        "Serpent Magus",
+        "Salamander",
+        "Pit Viper",
+        "Claw Viper"
+      ]
+    },
+    {
+      "family_group": "flying_insectoid",
+      "broad_archetype": "insectoid",
+      "count": 9,
+      "combat_relevant_count": 9,
+      "avg_danger_priority_combat": 2.22,
+      "max_danger_priority_combat": 3,
+      "raw_families": [
+        "mosquito",
+        "swarm"
+      ],
+      "examples": [
+        "Blood Wing",
+        "Blood Hook",
+        "Sucker",
+        "Plague Bugs",
+        "Itchies",
+        "Hell Swarm",
+        "Feeder",
+        "Black Locusts"
+      ]
+    },
+    {
+      "family_group": "spirit_undead",
+      "broad_archetype": "spirit",
+      "count": 9,
+      "combat_relevant_count": 9,
+      "avg_danger_priority_combat": 4.0,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "wraith"
+      ],
+      "examples": [
+        "Wraith",
+        "Specter",
+        "Ghost",
+        "Dark Shape",
+        "Apparition"
+      ]
+    },
+    {
+      "family_group": "vampire_demon",
+      "broad_archetype": "demon",
+      "count": 9,
+      "combat_relevant_count": 9,
+      "avg_danger_priority_combat": 4.0,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "vampire"
+      ],
+      "examples": [
+        "The Banished",
+        "Night Lord",
+        "Ghoul Lord",
+        "Dark Lord",
+        "Blood Lord"
+      ]
+    },
+    {
+      "family_group": "arcane_spirit",
+      "broad_archetype": "spirit",
+      "count": 8,
+      "combat_relevant_count": 8,
+      "avg_danger_priority_combat": 5.75,
+      "max_danger_priority_combat": 6,
+      "raw_families": [
+        "willowisp"
+      ],
+      "examples": [
+        "Gloam",
+        "Burning Soul",
+        "Black Soul",
+        "Swamp Ghost"
+      ]
+    },
+    {
+      "family_group": "beetle_insectoid",
+      "broad_archetype": "insectoid",
+      "count": 8,
+      "combat_relevant_count": 8,
+      "avg_danger_priority_combat": 4.0,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "scarab"
+      ],
+      "examples": [
+        "Steel Scarab",
+        "Scarab",
+        "Dung Soldier",
+        "Death Beetle",
+        "Bone Scarab"
+      ]
+    },
+    {
+      "family_group": "simian_beast",
+      "broad_archetype": "beast",
+      "count": 8,
+      "combat_relevant_count": 8,
+      "avg_danger_priority_combat": 2.0,
+      "max_danger_priority_combat": 2,
+      "raw_families": [
+        "baboon"
+      ],
+      "examples": [
+        "Temple Guard",
+        "Rock Dweller",
+        "Night Marauder",
+        "Jungle Hunter",
+        "Dune Beast",
+        "Doom Ape"
+      ]
+    },
+    {
+      "family_group": "arachnid_insectoid",
+      "broad_archetype": "insectoid",
+      "count": 7,
+      "combat_relevant_count": 7,
+      "avg_danger_priority_combat": 3.14,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "arach"
+      ],
+      "examples": [
+        "Flame Spider",
+        "Spider Magus",
+        "Sand Fisher",
+        "Poison Spinner",
+        "Arach"
+      ]
+    },
+    {
+      "family_group": "beast_demon",
+      "broad_archetype": "demon",
+      "count": 7,
+      "combat_relevant_count": 7,
+      "avg_danger_priority_combat": 4.0,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "frogdemon",
+        "regurgitator"
+      ],
+      "examples": [
+        "Swamp Dweller",
+        "Slime Prince",
+        "Maw Fiend",
+        "Corpulent",
+        "Corpse Spitter",
+        "Bog Creature"
+      ]
+    },
+    {
+      "family_group": "fetish_tribe",
+      "broad_archetype": "undead",
+      "count": 7,
+      "combat_relevant_count": 7,
+      "avg_danger_priority_combat": 5.14,
+      "max_danger_priority_combat": 6,
+      "raw_families": [
+        "undeadfetish"
+      ],
+      "examples": [
+        "Undead Stygian Doll",
+        "Undead Soul Killer",
+        "Undead Rat Man",
+        "Undead Flayer",
+        "Undead Fetish"
+      ]
+    },
+    {
+      "family_group": "leaper_reptile",
+      "broad_archetype": "reptile",
+      "count": 7,
+      "combat_relevant_count": 7,
+      "avg_danger_priority_combat": 3.0,
+      "max_danger_priority_combat": 3,
+      "raw_families": [
+        "sandleaper"
+      ],
+      "examples": [
+        "Tree Lurker",
+        "Tomb Creeper",
+        "Sand Leaper",
+        "Cliff Lurker",
+        "Cave Leaper"
+      ]
+    },
+    {
+      "family_group": "demonic_humanoid",
+      "broad_archetype": "humanoid",
+      "count": 6,
+      "combat_relevant_count": 6,
+      "avg_danger_priority_combat": 4.0,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "overseer"
+      ],
+      "examples": [
+        "Overseer",
+        "Overlord",
+        "Lasher",
+        "Hell Whip",
+        "Blood Boss"
+      ]
+    },
+    {
+      "family_group": "tentacle_aberration",
+      "broad_archetype": "construct",
+      "count": 6,
+      "combat_relevant_count": 6,
+      "avg_danger_priority_combat": 3.0,
+      "max_danger_priority_combat": 3,
+      "raw_families": [
+        "tentacle"
+      ],
+      "examples": [
+        "Water Watcher",
+        "Stygian Watcher",
+        "River Stalker"
+      ]
+    },
+    {
+      "family_group": "caster_demon",
+      "broad_archetype": "demon",
+      "count": 5,
+      "combat_relevant_count": 5,
+      "avg_danger_priority_combat": 4.0,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "fingermage"
+      ],
+      "examples": [
+        "Strangler",
+        "Storm Caster",
+        "Doom Caster"
+      ]
+    },
+    {
+      "family_group": "insectoid_aberration",
+      "broad_archetype": "insectoid",
+      "count": 5,
+      "combat_relevant_count": 5,
+      "avg_danger_priority_combat": 3.0,
+      "max_danger_priority_combat": 3,
+      "raw_families": [
+        "putriddefiler"
+      ],
+      "examples": [
+        "Wretched Defiler",
+        "Rank Defiler",
+        "Rancid Defiler",
+        "Putrid Defiler",
+        "Fetid Defiler"
+      ]
+    },
+    {
+      "family_group": "npc_or_story",
+      "broad_archetype": "npc",
+      "count": 5,
+      "combat_relevant_count": 0,
+      "avg_danger_priority_combat": 0.0,
+      "max_danger_priority_combat": 0,
+      "raw_families": [
+        "__blank__"
+      ],
+      "examples": [
+        "Tyrael",
+        "Izual",
+        "Dark Wanderer"
+      ]
+    },
+    {
+      "family_group": "plant_aberration",
+      "broad_archetype": "construct",
+      "count": 5,
+      "combat_relevant_count": 5,
+      "avg_danger_priority_combat": 2.2,
+      "max_danger_priority_combat": 3,
+      "raw_families": [
+        "thornhulk"
+      ],
+      "examples": [
+        "Thrasher",
+        "Thorned Hulk",
+        "Spikefist",
+        "Bramble Hulk"
+      ]
+    },
+    {
+      "family_group": "golem_construct",
+      "broad_archetype": "summon",
+      "count": 4,
+      "combat_relevant_count": 4,
+      "avg_danger_priority_combat": 3.25,
+      "max_danger_priority_combat": 4,
+      "raw_families": [
+        "golem"
+      ],
+      "examples": [
+        "Blood Golem",
+        "Iron Golem",
+        "Fire Golem",
+        "Clay Golem"
+      ]
+    },
+    {
+      "family_group": "insectoid_other",
+      "broad_archetype": "insectoid",
+      "count": 4,
+      "combat_relevant_count": 4,
+      "avg_danger_priority_combat": 2.0,
+      "max_danger_priority_combat": 2,
+      "raw_families": [
+        "__blank__"
+      ],
+      "examples": [
+        "an evil force",
+        "Maggot",
+        "Larva"
+      ]
+    },
+    {
+      "family_group": "bovine_beast",
+      "broad_archetype": "beast",
+      "count": 2,
+      "combat_relevant_count": 2,
+      "avg_danger_priority_combat": 2.5,
+      "max_danger_priority_combat": 3,
+      "raw_families": [
+        "bovine"
+      ],
+      "examples": [
+        "Hell Bovine"
+      ]
+    }
+  ],
+  "raw_family_counts": [
+    {
+      "raw_family": "__blank__",
+      "count": 131
+    },
+    {
+      "raw_family": "human",
+      "count": 76
+    },
+    {
+      "raw_family": "skeleton",
+      "count": 48
+    },
+    {
+      "raw_family": "demon",
+      "count": 31
+    },
+    {
+      "raw_family": "fetish",
+      "count": 25
+    },
+    {
+      "raw_family": "corruptrogue",
+      "count": 24
+    },
+    {
+      "raw_family": "construct",
+      "count": 22
+    },
+    {
+      "raw_family": "minion",
+      "count": 22
+    },
+    {
+      "raw_family": "sandmaggot",
+      "count": 18
+    },
+    {
+      "raw_family": "succubus",
+      "count": 17
+    },
+    {
+      "raw_family": "fallen",
+      "count": 16
+    },
+    {
+      "raw_family": "pantherwoman",
+      "count": 15
+    },
+    {
+      "raw_family": "vilekind",
+      "count": 15
+    },
+    {
+      "raw_family": "quillrat",
+      "count": 13
+    },
+    {
+      "raw_family": "zombie",
+      "count": 12
+    },
+    {
+      "raw_family": "zakarum",
+      "count": 11
+    },
+    {
+      "raw_family": "bighead",
+      "count": 10
+    },
+    {
+      "raw_family": "clawviper",
+      "count": 10
+    },
+    {
+      "raw_family": "goatman",
+      "count": 10
+    },
+    {
+      "raw_family": "sandraider",
+      "count": 10
+    },
+    {
+      "raw_family": "unraveler",
+      "count": 9
+    },
+    {
+      "raw_family": "vampire",
+      "count": 9
+    },
+    {
+      "raw_family": "wraith",
+      "count": 9
+    },
+    {
+      "raw_family": "baboon",
+      "count": 8
+    },
+    {
+      "raw_family": "doomknight",
+      "count": 8
+    },
+    {
+      "raw_family": "foulcrow",
+      "count": 8
+    },
+    {
+      "raw_family": "imp",
+      "count": 8
+    },
+    {
+      "raw_family": "scarab",
+      "count": 8
+    },
+    {
+      "raw_family": "willowisp",
+      "count": 8
+    },
+    {
+      "raw_family": "arach",
+      "count": 7
+    },
+    {
+      "raw_family": "batdemon",
+      "count": 7
+    },
+    {
+      "raw_family": "bloodlord",
+      "count": 7
+    },
+    {
+      "raw_family": "megademon",
+      "count": 7
+    },
+    {
+      "raw_family": "mummy",
+      "count": 7
+    },
+    {
+      "raw_family": "sandleaper",
+      "count": 7
+    },
+    {
+      "raw_family": "undeadfetish",
+      "count": 7
+    },
+    {
+      "raw_family": "blunderbore",
+      "count": 6
+    },
+    {
+      "raw_family": "deathmauler",
+      "count": 6
+    },
+    {
+      "raw_family": "overseer",
+      "count": 6
+    },
+    {
+      "raw_family": "tentacle",
+      "count": 6
+    },
+    {
+      "raw_family": "brute",
+      "count": 5
+    },
+    {
+      "raw_family": "fingermage",
+      "count": 5
+    },
+    {
+      "raw_family": "frozenhorror",
+      "count": 5
+    },
+    {
+      "raw_family": "putriddefiler",
+      "count": 5
+    },
+    {
+      "raw_family": "siegebeast",
+      "count": 5
+    },
+    {
+      "raw_family": "swarm",
+      "count": 5
+    },
+    {
+      "raw_family": "thornhulk",
+      "count": 5
+    },
+    {
+      "raw_family": "vulture",
+      "count": 5
+    },
+    {
+      "raw_family": "councilmember",
+      "count": 4
+    },
+    {
+      "raw_family": "golem",
+      "count": 4
+    },
+    {
+      "raw_family": "mosquito",
+      "count": 4
+    },
+    {
+      "raw_family": "regurgitator",
+      "count": 4
+    },
+    {
+      "raw_family": "snowyeti",
+      "count": 4
+    },
+    {
+      "raw_family": "frogdemon",
+      "count": 3
+    },
+    {
+      "raw_family": "bovine",
+      "count": 2
+    },
+    {
+      "raw_family": "undead",
+      "count": 2
+    }
+  ],
+  "unknown_untyped_rows": []
+}

@@ -1,0 +1,12 @@
+{
+  "arreat_catalog_unique_display_names": 74,
+  "d2data_enabled_unique_display_names": 431,
+  "covered_by_name_match": 42,
+  "missing_unique_names": 389,
+  "missing_hostile_unique_names_threat_gt_0": 322,
+  "report_files": {
+    "missing_unique_txt": "processed/monsters/missing_vs_d2data_unique_names.txt",
+    "missing_unique_csv": "processed/monsters/missing_vs_d2data_unique_names.csv",
+    "missing_hostile_txt": "processed/monsters/missing_vs_d2data_hostile_unique_names.txt"
+  }
+}

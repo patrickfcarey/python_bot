@@ -1,0 +1,34 @@
+{
+  "index_file": "C:\\github\\python_bot\\data\\monsters\\labels\\monster_index.template.csv",
+  "hover_dir": "C:\\github\\python_bot\\data\\monsters\\raw\\in_game\\hover_name_bar",
+  "body_dir": "C:\\github\\python_bot\\data\\monsters\\raw\\in_game\\body_crops",
+  "total_monsters": 2,
+  "complete_monsters": 0,
+  "missing_monsters": 2,
+  "rows": [
+    {
+      "monster_id": "m_fallen_shaman",
+      "slug": "fallen_shaman",
+      "display_name": "Fallen Shaman",
+      "target_hover_images": 25,
+      "found_hover_images": 0,
+      "target_body_images": 40,
+      "found_body_images": 0,
+      "missing_hover_images": 25,
+      "missing_body_images": 40,
+      "complete": false
+    },
+    {
+      "monster_id": "m_venom_lord",
+      "slug": "venom_lord",
+      "display_name": "Venom Lord",
+      "target_hover_images": 25,
+      "found_hover_images": 0,
+      "target_body_images": 40,
+      "found_body_images": 0,
+      "missing_hover_images": 25,
+      "missing_body_images": 40,
+      "complete": false
+    }
+  ]
+}

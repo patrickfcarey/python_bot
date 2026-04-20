@@ -1,23 +1,43 @@
 bot/
-|-- __init__.py                 # Package marker
-|-- main.py                     # Entry point (run with python -m bot.main)
-|-- config.py                   # Configurable constants
-|-- controller.py               # Mouse/keyboard execution
-|-- vision.py                   # Screen capture + automap interpretation
-|-- state_manager.py            # Lifecycle state transitions
-|-- game_state.py               # Structured state model
-|-- command_module.py           # Override command queue
+|-- __init__.py
+|-- main.py
+|-- config.py
+|-- controller.py
+|-- command_module.py
+|-- game_state.py
+|-- state_manager.py
+|-- vision.py
+|-- enemy_tracker.py
+|-- combat.py
+|-- performance.py
+|-- window_manager.py
+|-- ocr_dataset.py
+|-- runtime_checks.py
 |-- policy/
 |   |-- __init__.py
-|   |-- rule_policy.py          # Rule-based baseline policy
-|   `-- ml_policy.py            # ML policy adapter stub
+|   |-- rule_policy.py
+|   `-- ml_policy.py
 |-- utils/
-|   `-- timing.py               # FPS limiter
+|   `-- timing.py
 |-- templates/
-|   `-- README.txt              # Placeholder for template assets
+|   `-- README.txt
 `-- tests/
+    |-- test_combat.py
+    |-- test_command_module.py
     |-- test_controller.py
+    |-- test_enemy_tracker.py
+    |-- test_performance.py
     |-- test_rule_policy.py
     |-- test_state_manager.py
-    `-- screenshots/
-        `-- README.txt          # Place vision test screenshots here
+    `-- test_window_manager.py
+
+scripts/
+`-- augment_ocr_dataset.py
+
+data/
+`-- ocr/
+    |-- raw/
+    `-- labeled/
+
+logs/
+`-- bot.log (created at runtime)

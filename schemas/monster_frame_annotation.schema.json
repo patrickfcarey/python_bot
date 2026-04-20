@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Monster Frame Annotation Entry",
+  "type": "object",
+  "required": ["image_path", "monster_id", "bbox", "label_type", "quality", "occlusion"],
+  "properties": {
+    "image_path": {"type": "string"},
+    "monster_id": {"type": "string"},
+    "bbox": {
+      "type": "object",
+      "required": ["x", "y", "w", "h"],
+      "properties": {
+        "x": {"type": "integer", "minimum": 0},
+        "y": {"type": "integer", "minimum": 0},
+        "w": {"type": "integer", "minimum": 1},
+        "h": {"type": "integer", "minimum": 1}
+      },
+      "additionalProperties": false
+    },
+    "label_type": {"type": "string", "enum": ["hover_text", "body_visual"]},
+    "quality": {"type": "string", "enum": ["high", "medium", "low"]},
+    "occlusion": {"type": "number", "minimum": 0.0, "maximum": 1.0},
+    "notes": {"type": "string"}
+  },
+  "additionalProperties": false
+}

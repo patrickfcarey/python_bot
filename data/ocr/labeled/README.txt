@@ -1,0 +1,1 @@
+Place labeled OCR samples and training-ready text files here.
